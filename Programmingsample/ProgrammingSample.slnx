@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Project1/Project1.csproj" />
+  <Project Path="restaurant/restaurant.csproj" />
+</Solution>

@@ -1,0 +1,15 @@
+C:\Users\muhammedadil.cp\Programming Training\ProgrammingSample\restaurant\bin\Debug\net10.0\restaurant.exe
+C:\Users\muhammedadil.cp\Programming Training\ProgrammingSample\restaurant\bin\Debug\net10.0\restaurant.deps.json
+C:\Users\muhammedadil.cp\Programming Training\ProgrammingSample\restaurant\bin\Debug\net10.0\restaurant.runtimeconfig.json
+C:\Users\muhammedadil.cp\Programming Training\ProgrammingSample\restaurant\bin\Debug\net10.0\restaurant.dll
+C:\Users\muhammedadil.cp\Programming Training\ProgrammingSample\restaurant\bin\Debug\net10.0\restaurant.pdb
+C:\Users\muhammedadil.cp\Programming Training\ProgrammingSample\restaurant\obj\Debug\net10.0\restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammedadil.cp\Programming Training\ProgrammingSample\restaurant\obj\Debug\net10.0\restaurant.AssemblyInfoInputs.cache
+C:\Users\muhammedadil.cp\Programming Training\ProgrammingSample\restaurant\obj\Debug\net10.0\restaurant.AssemblyInfo.cs
+C:\Users\muhammedadil.cp\Programming Training\ProgrammingSample\restaurant\obj\Debug\net10.0\restaurant.csproj.CoreCompileInputs.cache
+C:\Users\muhammedadil.cp\Programming Training\ProgrammingSample\restaurant\obj\Debug\net10.0\restaurant.dll
+C:\Users\muhammedadil.cp\Programming Training\ProgrammingSample\restaurant\obj\Debug\net10.0\refint\restaurant.dll
+C:\Users\muhammedadil.cp\Programming Training\ProgrammingSample\restaurant\obj\Debug\net10.0\restaurant.pdb
+C:\Users\muhammedadil.cp\Programming Training\ProgrammingSample\restaurant\obj\Debug\net10.0\restaurant.genruntimeconfig.cache
+C:\Users\muhammedadil.cp\Programming Training\ProgrammingSample\restaurant\obj\Debug\net10.0\ref\restaurant.dll
+C:\Users\muhammedadil.cp\Programming Training\ProgrammingSample\restaurant\obj\Debug\net10.0\restaurant.csproj.Up2Date
