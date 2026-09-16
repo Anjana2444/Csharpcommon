@@ -1,0 +1,15 @@
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\StudentDetails\obj\Debug\net10.0\Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\StudentDetails\obj\Debug\net10.0\Student.AssemblyInfoInputs.cache
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\StudentDetails\obj\Debug\net10.0\Student.AssemblyInfo.cs
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\StudentDetails\obj\Debug\net10.0\Student.csproj.CoreCompileInputs.cache
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\StudentDetails\bin\Debug\net10.0\Student.exe
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\StudentDetails\bin\Debug\net10.0\Student.deps.json
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\StudentDetails\bin\Debug\net10.0\Student.runtimeconfig.json
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\StudentDetails\bin\Debug\net10.0\Student.dll
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\StudentDetails\bin\Debug\net10.0\Student.pdb
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\StudentDetails\obj\Debug\net10.0\Student.dll
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\StudentDetails\obj\Debug\net10.0\refint\Student.dll
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\StudentDetails\obj\Debug\net10.0\Student.pdb
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\StudentDetails\obj\Debug\net10.0\Student.genruntimeconfig.cache
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\StudentDetails\obj\Debug\net10.0\ref\Student.dll
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\StudentDetails\obj\Debug\net10.0\Student.csproj.Up2Date

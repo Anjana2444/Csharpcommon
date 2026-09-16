@@ -1,0 +1,15 @@
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Calculator\bin\Debug\net10.0\Calculator.exe
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Calculator\bin\Debug\net10.0\Calculator.deps.json
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Calculator\bin\Debug\net10.0\Calculator.runtimeconfig.json
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Calculator\bin\Debug\net10.0\Calculator.dll
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Calculator\bin\Debug\net10.0\Calculator.pdb
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Calculator\obj\Debug\net10.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfo.cs
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Calculator\obj\Debug\net10.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Calculator\obj\Debug\net10.0\Calculator.dll
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Calculator\obj\Debug\net10.0\refint\Calculator.dll
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Calculator\obj\Debug\net10.0\Calculator.pdb
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Calculator\obj\Debug\net10.0\Calculator.genruntimeconfig.cache
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Calculator\obj\Debug\net10.0\ref\Calculator.dll
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Calculator\obj\Debug\net10.0\Calculator.csproj.Up2Date

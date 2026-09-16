@@ -1,0 +1,15 @@
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Order\bin\Debug\net10.0\Order.exe
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Order\bin\Debug\net10.0\Order.deps.json
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Order\bin\Debug\net10.0\Order.runtimeconfig.json
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Order\bin\Debug\net10.0\Order.dll
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Order\bin\Debug\net10.0\Order.pdb
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Order\obj\Debug\net10.0\Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Order\obj\Debug\net10.0\Order.AssemblyInfoInputs.cache
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Order\obj\Debug\net10.0\Order.AssemblyInfo.cs
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Order\obj\Debug\net10.0\Order.csproj.CoreCompileInputs.cache
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Order\obj\Debug\net10.0\Order.dll
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Order\obj\Debug\net10.0\refint\Order.dll
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Order\obj\Debug\net10.0\Order.pdb
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Order\obj\Debug\net10.0\Order.genruntimeconfig.cache
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Order\obj\Debug\net10.0\ref\Order.dll
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Order\obj\Debug\net10.0\Order.csproj.Up2Date

@@ -1,0 +1,15 @@
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Payment\obj\Debug\net10.0\Payment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Payment\obj\Debug\net10.0\Payment.AssemblyInfoInputs.cache
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Payment\obj\Debug\net10.0\Payment.AssemblyInfo.cs
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Payment\obj\Debug\net10.0\Payment.csproj.CoreCompileInputs.cache
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Payment\bin\Debug\net10.0\Payment.exe
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Payment\bin\Debug\net10.0\Payment.deps.json
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Payment\bin\Debug\net10.0\Payment.runtimeconfig.json
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Payment\bin\Debug\net10.0\Payment.dll
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Payment\bin\Debug\net10.0\Payment.pdb
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Payment\obj\Debug\net10.0\Payment.dll
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Payment\obj\Debug\net10.0\refint\Payment.dll
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Payment\obj\Debug\net10.0\Payment.pdb
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Payment\obj\Debug\net10.0\Payment.genruntimeconfig.cache
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Payment\obj\Debug\net10.0\ref\Payment.dll
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Payment\obj\Debug\net10.0\Payment.csproj.Up2Date

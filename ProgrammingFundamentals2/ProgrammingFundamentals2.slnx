@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="Calculator/Calculator.csproj" Id="2c0db98f-27d5-4ddb-8775-1a495c4794b5" />
+  <Project Path="Car/Car.csproj" Id="dfa312aa-d8a4-4905-8ea2-b2ce52d18644" />
+  <Project Path="Employee/Employee.csproj" />
+  <Project Path="Library/Library.csproj" Id="d8593dea-eccd-4ab3-900b-9759e7426959" />
+  <Project Path="Movie/Movie.csproj" Id="6509d318-6eec-4d7d-8ba7-a285c95d5d5a" />
+  <Project Path="Oops/Oops.csproj" Id="8675d4fa-0aaa-449f-beb5-63fdac32840d" />
+  <Project Path="Order/Order.csproj" Id="449ca31c-0f3f-4c4a-80c1-fe81e5444866" />
+  <Project Path="Payment/Payment.csproj" Id="1a8801b0-df0e-4961-bbb8-ecc302259bdc" />
+  <Project Path="StudentDetails/Student.csproj" Id="bf89674c-d9d3-43a7-ad21-cd93fc8b208c" />
+  <Project Path="Tempconverter/Tempconverter.csproj" Id="3b946a14-509d-4ba8-a30d-06c9c0614065" />
+</Solution>

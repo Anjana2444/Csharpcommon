@@ -1,0 +1,15 @@
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Employee\obj\Debug\net10.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Employee\obj\Debug\net10.0\Employee.AssemblyInfoInputs.cache
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Employee\obj\Debug\net10.0\Employee.AssemblyInfo.cs
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Employee\obj\Debug\net10.0\Employee.csproj.CoreCompileInputs.cache
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Employee\bin\Debug\net10.0\Employee.exe
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Employee\bin\Debug\net10.0\Employee.deps.json
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Employee\bin\Debug\net10.0\Employee.runtimeconfig.json
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Employee\bin\Debug\net10.0\Employee.dll
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Employee\bin\Debug\net10.0\Employee.pdb
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Employee\obj\Debug\net10.0\Employee.dll
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Employee\obj\Debug\net10.0\refint\Employee.dll
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Employee\obj\Debug\net10.0\Employee.pdb
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Employee\obj\Debug\net10.0\Employee.genruntimeconfig.cache
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Employee\obj\Debug\net10.0\ref\Employee.dll
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\Employee\obj\Debug\net10.0\Employee.csproj.Up2Date
