@@ -1,0 +1,15 @@
+C:\Users\muhammedadil.cp\Programming Training\LibraryMt\bin\Debug\net10.0\LibraryMt.exe
+C:\Users\muhammedadil.cp\Programming Training\LibraryMt\bin\Debug\net10.0\LibraryMt.deps.json
+C:\Users\muhammedadil.cp\Programming Training\LibraryMt\bin\Debug\net10.0\LibraryMt.runtimeconfig.json
+C:\Users\muhammedadil.cp\Programming Training\LibraryMt\bin\Debug\net10.0\LibraryMt.dll
+C:\Users\muhammedadil.cp\Programming Training\LibraryMt\bin\Debug\net10.0\LibraryMt.pdb
+C:\Users\muhammedadil.cp\Programming Training\LibraryMt\obj\Debug\net10.0\LibraryMt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammedadil.cp\Programming Training\LibraryMt\obj\Debug\net10.0\LibraryMt.AssemblyInfoInputs.cache
+C:\Users\muhammedadil.cp\Programming Training\LibraryMt\obj\Debug\net10.0\LibraryMt.AssemblyInfo.cs
+C:\Users\muhammedadil.cp\Programming Training\LibraryMt\obj\Debug\net10.0\LibraryMt.csproj.CoreCompileInputs.cache
+C:\Users\muhammedadil.cp\Programming Training\LibraryMt\obj\Debug\net10.0\LibraryMt.dll
+C:\Users\muhammedadil.cp\Programming Training\LibraryMt\obj\Debug\net10.0\refint\LibraryMt.dll
+C:\Users\muhammedadil.cp\Programming Training\LibraryMt\obj\Debug\net10.0\LibraryMt.pdb
+C:\Users\muhammedadil.cp\Programming Training\LibraryMt\obj\Debug\net10.0\LibraryMt.genruntimeconfig.cache
+C:\Users\muhammedadil.cp\Programming Training\LibraryMt\obj\Debug\net10.0\ref\LibraryMt.dll
+C:\Users\muhammedadil.cp\Programming Training\LibraryMt\obj\Debug\net10.0\LibraryMt.csproj.Up2Date

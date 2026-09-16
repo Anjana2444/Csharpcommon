@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="../Calculator/Calculator.csproj" />
+  <Project Path="../Inheritance/Oops.csproj" />
+  <Project Path="../MovieSystem/MovieSystem.csproj" />
+  <Project Path="../Order/Order.csproj" />
+  <Project Path="../School/School.csproj" />
+  <Project Path="../TemperatureConverter/TemperatureConverter.csproj" />
+  <Project Path="LibraryMt.csproj" />
+</Solution>
