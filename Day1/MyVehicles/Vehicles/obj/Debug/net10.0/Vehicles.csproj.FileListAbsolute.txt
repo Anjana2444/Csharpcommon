@@ -1,0 +1,15 @@
+C:\Users\chris.joseph\Programming\MyVehicles\Vehicles\bin\Debug\net10.0\Vehicles.exe
+C:\Users\chris.joseph\Programming\MyVehicles\Vehicles\bin\Debug\net10.0\Vehicles.deps.json
+C:\Users\chris.joseph\Programming\MyVehicles\Vehicles\bin\Debug\net10.0\Vehicles.runtimeconfig.json
+C:\Users\chris.joseph\Programming\MyVehicles\Vehicles\bin\Debug\net10.0\Vehicles.dll
+C:\Users\chris.joseph\Programming\MyVehicles\Vehicles\bin\Debug\net10.0\Vehicles.pdb
+C:\Users\chris.joseph\Programming\MyVehicles\Vehicles\obj\Debug\net10.0\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris.joseph\Programming\MyVehicles\Vehicles\obj\Debug\net10.0\Vehicles.AssemblyInfoInputs.cache
+C:\Users\chris.joseph\Programming\MyVehicles\Vehicles\obj\Debug\net10.0\Vehicles.AssemblyInfo.cs
+C:\Users\chris.joseph\Programming\MyVehicles\Vehicles\obj\Debug\net10.0\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\chris.joseph\Programming\MyVehicles\Vehicles\obj\Debug\net10.0\Vehicles.dll
+C:\Users\chris.joseph\Programming\MyVehicles\Vehicles\obj\Debug\net10.0\refint\Vehicles.dll
+C:\Users\chris.joseph\Programming\MyVehicles\Vehicles\obj\Debug\net10.0\Vehicles.pdb
+C:\Users\chris.joseph\Programming\MyVehicles\Vehicles\obj\Debug\net10.0\Vehicles.genruntimeconfig.cache
+C:\Users\chris.joseph\Programming\MyVehicles\Vehicles\obj\Debug\net10.0\ref\Vehicles.dll
+C:\Users\chris.joseph\Programming\MyVehicles\Vehicles\obj\Debug\net10.0\Vehicles.csproj.Up2Date
