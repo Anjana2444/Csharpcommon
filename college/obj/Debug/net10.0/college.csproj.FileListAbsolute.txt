@@ -1,0 +1,15 @@
+C:\Users\donarose.shiju\Programming\Programming\college\bin\Debug\net10.0\college.exe
+C:\Users\donarose.shiju\Programming\Programming\college\bin\Debug\net10.0\college.deps.json
+C:\Users\donarose.shiju\Programming\Programming\college\bin\Debug\net10.0\college.runtimeconfig.json
+C:\Users\donarose.shiju\Programming\Programming\college\bin\Debug\net10.0\college.dll
+C:\Users\donarose.shiju\Programming\Programming\college\bin\Debug\net10.0\college.pdb
+C:\Users\donarose.shiju\Programming\Programming\college\obj\Debug\net10.0\college.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donarose.shiju\Programming\Programming\college\obj\Debug\net10.0\college.AssemblyInfoInputs.cache
+C:\Users\donarose.shiju\Programming\Programming\college\obj\Debug\net10.0\college.AssemblyInfo.cs
+C:\Users\donarose.shiju\Programming\Programming\college\obj\Debug\net10.0\college.csproj.CoreCompileInputs.cache
+C:\Users\donarose.shiju\Programming\Programming\college\obj\Debug\net10.0\college.dll
+C:\Users\donarose.shiju\Programming\Programming\college\obj\Debug\net10.0\refint\college.dll
+C:\Users\donarose.shiju\Programming\Programming\college\obj\Debug\net10.0\college.pdb
+C:\Users\donarose.shiju\Programming\Programming\college\obj\Debug\net10.0\college.genruntimeconfig.cache
+C:\Users\donarose.shiju\Programming\Programming\college\obj\Debug\net10.0\ref\college.dll
+C:\Users\donarose.shiju\Programming\Programming\college\obj\Debug\net10.0\college.csproj.Up2Date
