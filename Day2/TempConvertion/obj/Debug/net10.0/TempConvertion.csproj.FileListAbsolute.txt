@@ -1,0 +1,15 @@
+C:\Users\chris.joseph\Programming\Day2Assignment\TempConvertion\bin\Debug\net10.0\TempConvertion.exe
+C:\Users\chris.joseph\Programming\Day2Assignment\TempConvertion\bin\Debug\net10.0\TempConvertion.deps.json
+C:\Users\chris.joseph\Programming\Day2Assignment\TempConvertion\bin\Debug\net10.0\TempConvertion.runtimeconfig.json
+C:\Users\chris.joseph\Programming\Day2Assignment\TempConvertion\bin\Debug\net10.0\TempConvertion.dll
+C:\Users\chris.joseph\Programming\Day2Assignment\TempConvertion\bin\Debug\net10.0\TempConvertion.pdb
+C:\Users\chris.joseph\Programming\Day2Assignment\TempConvertion\obj\Debug\net10.0\TempConvertion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris.joseph\Programming\Day2Assignment\TempConvertion\obj\Debug\net10.0\TempConvertion.AssemblyInfoInputs.cache
+C:\Users\chris.joseph\Programming\Day2Assignment\TempConvertion\obj\Debug\net10.0\TempConvertion.AssemblyInfo.cs
+C:\Users\chris.joseph\Programming\Day2Assignment\TempConvertion\obj\Debug\net10.0\TempConvertion.csproj.CoreCompileInputs.cache
+C:\Users\chris.joseph\Programming\Day2Assignment\TempConvertion\obj\Debug\net10.0\TempConvertion.dll
+C:\Users\chris.joseph\Programming\Day2Assignment\TempConvertion\obj\Debug\net10.0\refint\TempConvertion.dll
+C:\Users\chris.joseph\Programming\Day2Assignment\TempConvertion\obj\Debug\net10.0\TempConvertion.pdb
+C:\Users\chris.joseph\Programming\Day2Assignment\TempConvertion\obj\Debug\net10.0\TempConvertion.genruntimeconfig.cache
+C:\Users\chris.joseph\Programming\Day2Assignment\TempConvertion\obj\Debug\net10.0\ref\TempConvertion.dll
+C:\Users\chris.joseph\Programming\Day2Assignment\TempConvertion\obj\Debug\net10.0\TempConv.0832D238.Up2Date
