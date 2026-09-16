@@ -1,0 +1,15 @@
+C:\Users\donarose.shiju\Programming\Programming\Calculator\bin\Debug\net10.0\Calculator.exe
+C:\Users\donarose.shiju\Programming\Programming\Calculator\bin\Debug\net10.0\Calculator.deps.json
+C:\Users\donarose.shiju\Programming\Programming\Calculator\bin\Debug\net10.0\Calculator.runtimeconfig.json
+C:\Users\donarose.shiju\Programming\Programming\Calculator\bin\Debug\net10.0\Calculator.dll
+C:\Users\donarose.shiju\Programming\Programming\Calculator\bin\Debug\net10.0\Calculator.pdb
+C:\Users\donarose.shiju\Programming\Programming\Calculator\obj\Debug\net10.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donarose.shiju\Programming\Programming\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\donarose.shiju\Programming\Programming\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfo.cs
+C:\Users\donarose.shiju\Programming\Programming\Calculator\obj\Debug\net10.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\donarose.shiju\Programming\Programming\Calculator\obj\Debug\net10.0\Calculator.dll
+C:\Users\donarose.shiju\Programming\Programming\Calculator\obj\Debug\net10.0\refint\Calculator.dll
+C:\Users\donarose.shiju\Programming\Programming\Calculator\obj\Debug\net10.0\Calculator.pdb
+C:\Users\donarose.shiju\Programming\Programming\Calculator\obj\Debug\net10.0\Calculator.genruntimeconfig.cache
+C:\Users\donarose.shiju\Programming\Programming\Calculator\obj\Debug\net10.0\ref\Calculator.dll
+C:\Users\donarose.shiju\Programming\Programming\Calculator\obj\Debug\net10.0\Calculator.csproj.Up2Date
