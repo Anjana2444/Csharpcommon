@@ -1,0 +1,15 @@
+C:\Users\donarose.shiju\Programming\Programming\Inheritance\bin\Debug\net10.0\oops.exe
+C:\Users\donarose.shiju\Programming\Programming\Inheritance\bin\Debug\net10.0\oops.deps.json
+C:\Users\donarose.shiju\Programming\Programming\Inheritance\bin\Debug\net10.0\oops.runtimeconfig.json
+C:\Users\donarose.shiju\Programming\Programming\Inheritance\bin\Debug\net10.0\oops.dll
+C:\Users\donarose.shiju\Programming\Programming\Inheritance\bin\Debug\net10.0\oops.pdb
+C:\Users\donarose.shiju\Programming\Programming\Inheritance\obj\Debug\net10.0\oops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donarose.shiju\Programming\Programming\Inheritance\obj\Debug\net10.0\oops.AssemblyInfoInputs.cache
+C:\Users\donarose.shiju\Programming\Programming\Inheritance\obj\Debug\net10.0\oops.AssemblyInfo.cs
+C:\Users\donarose.shiju\Programming\Programming\Inheritance\obj\Debug\net10.0\oops.csproj.CoreCompileInputs.cache
+C:\Users\donarose.shiju\Programming\Programming\Inheritance\obj\Debug\net10.0\oops.dll
+C:\Users\donarose.shiju\Programming\Programming\Inheritance\obj\Debug\net10.0\refint\oops.dll
+C:\Users\donarose.shiju\Programming\Programming\Inheritance\obj\Debug\net10.0\oops.pdb
+C:\Users\donarose.shiju\Programming\Programming\Inheritance\obj\Debug\net10.0\oops.genruntimeconfig.cache
+C:\Users\donarose.shiju\Programming\Programming\Inheritance\obj\Debug\net10.0\ref\oops.dll
+C:\Users\donarose.shiju\Programming\Programming\Inheritance\obj\Debug\net10.0\oops.csproj.Up2Date
