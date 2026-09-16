@@ -1,0 +1,15 @@
+C:\Users\donarose.shiju\Programming\Programming\DemoApp\Demo\bin\Debug\net10.0\Demo.exe
+C:\Users\donarose.shiju\Programming\Programming\DemoApp\Demo\bin\Debug\net10.0\Demo.deps.json
+C:\Users\donarose.shiju\Programming\Programming\DemoApp\Demo\bin\Debug\net10.0\Demo.runtimeconfig.json
+C:\Users\donarose.shiju\Programming\Programming\DemoApp\Demo\bin\Debug\net10.0\Demo.dll
+C:\Users\donarose.shiju\Programming\Programming\DemoApp\Demo\bin\Debug\net10.0\Demo.pdb
+C:\Users\donarose.shiju\Programming\Programming\DemoApp\Demo\obj\Debug\net10.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donarose.shiju\Programming\Programming\DemoApp\Demo\obj\Debug\net10.0\Demo.AssemblyInfoInputs.cache
+C:\Users\donarose.shiju\Programming\Programming\DemoApp\Demo\obj\Debug\net10.0\Demo.AssemblyInfo.cs
+C:\Users\donarose.shiju\Programming\Programming\DemoApp\Demo\obj\Debug\net10.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\donarose.shiju\Programming\Programming\DemoApp\Demo\obj\Debug\net10.0\Demo.dll
+C:\Users\donarose.shiju\Programming\Programming\DemoApp\Demo\obj\Debug\net10.0\refint\Demo.dll
+C:\Users\donarose.shiju\Programming\Programming\DemoApp\Demo\obj\Debug\net10.0\Demo.pdb
+C:\Users\donarose.shiju\Programming\Programming\DemoApp\Demo\obj\Debug\net10.0\Demo.genruntimeconfig.cache
+C:\Users\donarose.shiju\Programming\Programming\DemoApp\Demo\obj\Debug\net10.0\ref\Demo.dll
+C:\Users\donarose.shiju\Programming\Programming\DemoApp\Demo\obj\Debug\net10.0\Demo.csproj.Up2Date
