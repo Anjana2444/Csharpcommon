@@ -1,0 +1,15 @@
+C:\Users\donarose.shiju\Programming\Programming\MovieRating\bin\Debug\net10.0\MovieRating.exe
+C:\Users\donarose.shiju\Programming\Programming\MovieRating\bin\Debug\net10.0\MovieRating.deps.json
+C:\Users\donarose.shiju\Programming\Programming\MovieRating\bin\Debug\net10.0\MovieRating.runtimeconfig.json
+C:\Users\donarose.shiju\Programming\Programming\MovieRating\bin\Debug\net10.0\MovieRating.dll
+C:\Users\donarose.shiju\Programming\Programming\MovieRating\bin\Debug\net10.0\MovieRating.pdb
+C:\Users\donarose.shiju\Programming\Programming\MovieRating\obj\Debug\net10.0\MovieRating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donarose.shiju\Programming\Programming\MovieRating\obj\Debug\net10.0\MovieRating.AssemblyInfoInputs.cache
+C:\Users\donarose.shiju\Programming\Programming\MovieRating\obj\Debug\net10.0\MovieRating.AssemblyInfo.cs
+C:\Users\donarose.shiju\Programming\Programming\MovieRating\obj\Debug\net10.0\MovieRating.csproj.CoreCompileInputs.cache
+C:\Users\donarose.shiju\Programming\Programming\MovieRating\obj\Debug\net10.0\MovieRating.dll
+C:\Users\donarose.shiju\Programming\Programming\MovieRating\obj\Debug\net10.0\refint\MovieRating.dll
+C:\Users\donarose.shiju\Programming\Programming\MovieRating\obj\Debug\net10.0\MovieRating.pdb
+C:\Users\donarose.shiju\Programming\Programming\MovieRating\obj\Debug\net10.0\MovieRating.genruntimeconfig.cache
+C:\Users\donarose.shiju\Programming\Programming\MovieRating\obj\Debug\net10.0\ref\MovieRating.dll
+C:\Users\donarose.shiju\Programming\Programming\MovieRating\obj\Debug\net10.0\MovieRat.B5F3D9DB.Up2Date
