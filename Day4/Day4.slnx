@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Documents/AllDocuments.csproj" />
+  <Project Path="Humans/Humans.csproj" Id="d8c5eaac-064c-4785-9eb5-d7cf3d5ae132" />
+  <Project Path="Oops/Oops.csproj" />
+  <Project Path="PaymentMethod/PaymentMethod.csproj" />
+</Solution>

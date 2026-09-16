@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MovieReview/MovieReview.csproj" />
+  <Project Path="Order/Order.csproj" />
+  <Project Path="StudentManagement/StudentManagement.csproj" />
+</Solution>

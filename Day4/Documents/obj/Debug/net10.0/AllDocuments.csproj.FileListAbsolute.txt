@@ -1,0 +1,15 @@
+C:\Users\chris.joseph\Programming\Day4\Documents\bin\Debug\net10.0\AllDocuments.exe
+C:\Users\chris.joseph\Programming\Day4\Documents\bin\Debug\net10.0\AllDocuments.deps.json
+C:\Users\chris.joseph\Programming\Day4\Documents\bin\Debug\net10.0\AllDocuments.runtimeconfig.json
+C:\Users\chris.joseph\Programming\Day4\Documents\bin\Debug\net10.0\AllDocuments.dll
+C:\Users\chris.joseph\Programming\Day4\Documents\bin\Debug\net10.0\AllDocuments.pdb
+C:\Users\chris.joseph\Programming\Day4\Documents\obj\Debug\net10.0\AllDocuments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris.joseph\Programming\Day4\Documents\obj\Debug\net10.0\AllDocuments.AssemblyInfoInputs.cache
+C:\Users\chris.joseph\Programming\Day4\Documents\obj\Debug\net10.0\AllDocuments.AssemblyInfo.cs
+C:\Users\chris.joseph\Programming\Day4\Documents\obj\Debug\net10.0\AllDocuments.csproj.CoreCompileInputs.cache
+C:\Users\chris.joseph\Programming\Day4\Documents\obj\Debug\net10.0\AllDocuments.dll
+C:\Users\chris.joseph\Programming\Day4\Documents\obj\Debug\net10.0\refint\AllDocuments.dll
+C:\Users\chris.joseph\Programming\Day4\Documents\obj\Debug\net10.0\AllDocuments.pdb
+C:\Users\chris.joseph\Programming\Day4\Documents\obj\Debug\net10.0\AllDocuments.genruntimeconfig.cache
+C:\Users\chris.joseph\Programming\Day4\Documents\obj\Debug\net10.0\ref\AllDocuments.dll
+C:\Users\chris.joseph\Programming\Day4\Documents\obj\Debug\net10.0\AllDocum.6D0E09B5.Up2Date
