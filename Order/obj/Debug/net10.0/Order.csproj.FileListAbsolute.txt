@@ -1,0 +1,15 @@
+C:\Users\muhammedadil.cp\Programming Training\Order\bin\Debug\net10.0\Order.exe
+C:\Users\muhammedadil.cp\Programming Training\Order\bin\Debug\net10.0\Order.deps.json
+C:\Users\muhammedadil.cp\Programming Training\Order\bin\Debug\net10.0\Order.runtimeconfig.json
+C:\Users\muhammedadil.cp\Programming Training\Order\bin\Debug\net10.0\Order.dll
+C:\Users\muhammedadil.cp\Programming Training\Order\bin\Debug\net10.0\Order.pdb
+C:\Users\muhammedadil.cp\Programming Training\Order\obj\Debug\net10.0\Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammedadil.cp\Programming Training\Order\obj\Debug\net10.0\Order.AssemblyInfoInputs.cache
+C:\Users\muhammedadil.cp\Programming Training\Order\obj\Debug\net10.0\Order.AssemblyInfo.cs
+C:\Users\muhammedadil.cp\Programming Training\Order\obj\Debug\net10.0\Order.csproj.CoreCompileInputs.cache
+C:\Users\muhammedadil.cp\Programming Training\Order\obj\Debug\net10.0\Order.dll
+C:\Users\muhammedadil.cp\Programming Training\Order\obj\Debug\net10.0\refint\Order.dll
+C:\Users\muhammedadil.cp\Programming Training\Order\obj\Debug\net10.0\Order.pdb
+C:\Users\muhammedadil.cp\Programming Training\Order\obj\Debug\net10.0\Order.genruntimeconfig.cache
+C:\Users\muhammedadil.cp\Programming Training\Order\obj\Debug\net10.0\ref\Order.dll
+C:\Users\muhammedadil.cp\Programming Training\Order\obj\Debug\net10.0\Order.csproj.Up2Date
