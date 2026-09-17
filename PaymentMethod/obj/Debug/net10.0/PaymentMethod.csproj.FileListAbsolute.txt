@@ -1,0 +1,16 @@
+C:\Users\antony.jacob\Programming\Samples\PaymentMethod\bin\Debug\net10.0\PaymentMethod.exe
+C:\Users\antony.jacob\Programming\Samples\PaymentMethod\bin\Debug\net10.0\PaymentMethod.deps.json
+C:\Users\antony.jacob\Programming\Samples\PaymentMethod\bin\Debug\net10.0\PaymentMethod.runtimeconfig.json
+C:\Users\antony.jacob\Programming\Samples\PaymentMethod\bin\Debug\net10.0\PaymentMethod.dll
+C:\Users\antony.jacob\Programming\Samples\PaymentMethod\bin\Debug\net10.0\PaymentMethod.pdb
+C:\Users\antony.jacob\Programming\Samples\PaymentMethod\obj\Debug\net10.0\PaymentMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antony.jacob\Programming\Samples\PaymentMethod\obj\Debug\net10.0\PaymentMethod.AssemblyInfoInputs.cache
+C:\Users\antony.jacob\Programming\Samples\PaymentMethod\obj\Debug\net10.0\PaymentMethod.AssemblyInfo.cs
+C:\Users\antony.jacob\Programming\Samples\PaymentMethod\obj\Debug\net10.0\PaymentMethod.csproj.CoreCompileInputs.cache
+C:\Users\antony.jacob\Programming\Samples\PaymentMethod\obj\Debug\net10.0\PaymentMethod.sourcelink.json
+C:\Users\antony.jacob\Programming\Samples\PaymentMethod\obj\Debug\net10.0\PaymentMethod.dll
+C:\Users\antony.jacob\Programming\Samples\PaymentMethod\obj\Debug\net10.0\refint\PaymentMethod.dll
+C:\Users\antony.jacob\Programming\Samples\PaymentMethod\obj\Debug\net10.0\PaymentMethod.pdb
+C:\Users\antony.jacob\Programming\Samples\PaymentMethod\obj\Debug\net10.0\PaymentMethod.genruntimeconfig.cache
+C:\Users\antony.jacob\Programming\Samples\PaymentMethod\obj\Debug\net10.0\ref\PaymentMethod.dll
+C:\Users\antony.jacob\Programming\Samples\PaymentMethod\obj\Debug\net10.0\PaymentM.8F62F025.Up2Date

@@ -1,0 +1,16 @@
+C:\Users\antony.jacob\Programming\Samples\Vehicle\bin\Debug\net10.0\Vehicle.exe
+C:\Users\antony.jacob\Programming\Samples\Vehicle\bin\Debug\net10.0\Vehicle.deps.json
+C:\Users\antony.jacob\Programming\Samples\Vehicle\bin\Debug\net10.0\Vehicle.runtimeconfig.json
+C:\Users\antony.jacob\Programming\Samples\Vehicle\bin\Debug\net10.0\Vehicle.dll
+C:\Users\antony.jacob\Programming\Samples\Vehicle\bin\Debug\net10.0\Vehicle.pdb
+C:\Users\antony.jacob\Programming\Samples\Vehicle\obj\Debug\net10.0\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antony.jacob\Programming\Samples\Vehicle\obj\Debug\net10.0\Vehicle.AssemblyInfoInputs.cache
+C:\Users\antony.jacob\Programming\Samples\Vehicle\obj\Debug\net10.0\Vehicle.AssemblyInfo.cs
+C:\Users\antony.jacob\Programming\Samples\Vehicle\obj\Debug\net10.0\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\antony.jacob\Programming\Samples\Vehicle\obj\Debug\net10.0\Vehicle.sourcelink.json
+C:\Users\antony.jacob\Programming\Samples\Vehicle\obj\Debug\net10.0\Vehicle.dll
+C:\Users\antony.jacob\Programming\Samples\Vehicle\obj\Debug\net10.0\refint\Vehicle.dll
+C:\Users\antony.jacob\Programming\Samples\Vehicle\obj\Debug\net10.0\Vehicle.pdb
+C:\Users\antony.jacob\Programming\Samples\Vehicle\obj\Debug\net10.0\Vehicle.genruntimeconfig.cache
+C:\Users\antony.jacob\Programming\Samples\Vehicle\obj\Debug\net10.0\ref\Vehicle.dll
+C:\Users\antony.jacob\Programming\Samples\Vehicle\obj\Debug\net10.0\Vehicle.csproj.Up2Date

@@ -1,0 +1,30 @@
+﻿using Library;
+
+Book b1 = new Book();
+b1.SerialNo = 101;
+b1.AuthorName = "Antony";
+b1.Title = "Never Lie";
+b1.Price = 599.99f;
+//Console.WriteLine("Serial No: " +  b1.SerialNo);
+//Console.WriteLine("Author Name: " + b1.AuthorName);
+//Console.WriteLine("Title: " + b1.Title);
+//Console.WriteLine("Price: " + b1.Price);
+//Console.WriteLine("Published At: " + b1.PublishedAt);
+//Console.WriteLine("Country: " + Book.Country);
+b1.PrintDetails();
+string author_title = b1.GetAuthorAndTitle();
+Console.WriteLine($"Author and Title: {author_title}");
+Console.WriteLine();
+Book b2 = new Book(102,"Adhil","Beauty and Beast",10.02f, DateTime.Now);
+b2.PrintDetails();
+Console.WriteLine();
+author_title = b2.GetAuthorAndTitle();
+Console.WriteLine($"Author and Title: {author_title}");
+Console.WriteLine();
+Console.Write("Enter the dollor value: ");
+string dollor_value = Console.ReadLine();
+float dollor = float.Parse(dollor_value);
+float price_rupees = b2.SetPriceInDollor(dollor);
+Console.WriteLine($"Price in Rupees: {price_rupees}");
+
+Console.ReadLine();

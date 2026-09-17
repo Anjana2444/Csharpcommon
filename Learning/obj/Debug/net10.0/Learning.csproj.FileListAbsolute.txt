@@ -1,0 +1,15 @@
+C:\Users\antony.jacob\Programming\Samples\Learning\bin\Debug\net10.0\Learning.exe
+C:\Users\antony.jacob\Programming\Samples\Learning\bin\Debug\net10.0\Learning.deps.json
+C:\Users\antony.jacob\Programming\Samples\Learning\bin\Debug\net10.0\Learning.runtimeconfig.json
+C:\Users\antony.jacob\Programming\Samples\Learning\bin\Debug\net10.0\Learning.dll
+C:\Users\antony.jacob\Programming\Samples\Learning\bin\Debug\net10.0\Learning.pdb
+C:\Users\antony.jacob\Programming\Samples\Learning\obj\Debug\net10.0\Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antony.jacob\Programming\Samples\Learning\obj\Debug\net10.0\Learning.AssemblyInfoInputs.cache
+C:\Users\antony.jacob\Programming\Samples\Learning\obj\Debug\net10.0\Learning.AssemblyInfo.cs
+C:\Users\antony.jacob\Programming\Samples\Learning\obj\Debug\net10.0\Learning.csproj.CoreCompileInputs.cache
+C:\Users\antony.jacob\Programming\Samples\Learning\obj\Debug\net10.0\Learning.dll
+C:\Users\antony.jacob\Programming\Samples\Learning\obj\Debug\net10.0\refint\Learning.dll
+C:\Users\antony.jacob\Programming\Samples\Learning\obj\Debug\net10.0\Learning.pdb
+C:\Users\antony.jacob\Programming\Samples\Learning\obj\Debug\net10.0\Learning.genruntimeconfig.cache
+C:\Users\antony.jacob\Programming\Samples\Learning\obj\Debug\net10.0\ref\Learning.dll
+C:\Users\antony.jacob\Programming\Samples\Learning\obj\Debug\net10.0\Learning.csproj.Up2Date

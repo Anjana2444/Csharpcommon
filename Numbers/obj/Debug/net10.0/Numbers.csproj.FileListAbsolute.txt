@@ -1,0 +1,16 @@
+C:\Users\antony.jacob\Programming\Samples\Numbers\bin\Debug\net10.0\Numbers.exe
+C:\Users\antony.jacob\Programming\Samples\Numbers\bin\Debug\net10.0\Numbers.deps.json
+C:\Users\antony.jacob\Programming\Samples\Numbers\bin\Debug\net10.0\Numbers.runtimeconfig.json
+C:\Users\antony.jacob\Programming\Samples\Numbers\bin\Debug\net10.0\Numbers.dll
+C:\Users\antony.jacob\Programming\Samples\Numbers\bin\Debug\net10.0\Numbers.pdb
+C:\Users\antony.jacob\Programming\Samples\Numbers\obj\Debug\net10.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antony.jacob\Programming\Samples\Numbers\obj\Debug\net10.0\Numbers.AssemblyInfoInputs.cache
+C:\Users\antony.jacob\Programming\Samples\Numbers\obj\Debug\net10.0\Numbers.AssemblyInfo.cs
+C:\Users\antony.jacob\Programming\Samples\Numbers\obj\Debug\net10.0\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\antony.jacob\Programming\Samples\Numbers\obj\Debug\net10.0\Numbers.sourcelink.json
+C:\Users\antony.jacob\Programming\Samples\Numbers\obj\Debug\net10.0\Numbers.dll
+C:\Users\antony.jacob\Programming\Samples\Numbers\obj\Debug\net10.0\refint\Numbers.dll
+C:\Users\antony.jacob\Programming\Samples\Numbers\obj\Debug\net10.0\Numbers.pdb
+C:\Users\antony.jacob\Programming\Samples\Numbers\obj\Debug\net10.0\Numbers.genruntimeconfig.cache
+C:\Users\antony.jacob\Programming\Samples\Numbers\obj\Debug\net10.0\ref\Numbers.dll
+C:\Users\antony.jacob\Programming\Samples\Numbers\obj\Debug\net10.0\Numbers.csproj.Up2Date

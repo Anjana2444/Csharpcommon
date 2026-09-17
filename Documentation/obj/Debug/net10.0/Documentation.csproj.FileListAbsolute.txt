@@ -1,0 +1,16 @@
+C:\Users\antony.jacob\Programming\Samples\Documentation\bin\Debug\net10.0\Documentation.exe
+C:\Users\antony.jacob\Programming\Samples\Documentation\bin\Debug\net10.0\Documentation.deps.json
+C:\Users\antony.jacob\Programming\Samples\Documentation\bin\Debug\net10.0\Documentation.runtimeconfig.json
+C:\Users\antony.jacob\Programming\Samples\Documentation\bin\Debug\net10.0\Documentation.dll
+C:\Users\antony.jacob\Programming\Samples\Documentation\bin\Debug\net10.0\Documentation.pdb
+C:\Users\antony.jacob\Programming\Samples\Documentation\obj\Debug\net10.0\Documentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antony.jacob\Programming\Samples\Documentation\obj\Debug\net10.0\Documentation.AssemblyInfoInputs.cache
+C:\Users\antony.jacob\Programming\Samples\Documentation\obj\Debug\net10.0\Documentation.AssemblyInfo.cs
+C:\Users\antony.jacob\Programming\Samples\Documentation\obj\Debug\net10.0\Documentation.csproj.CoreCompileInputs.cache
+C:\Users\antony.jacob\Programming\Samples\Documentation\obj\Debug\net10.0\Documentation.sourcelink.json
+C:\Users\antony.jacob\Programming\Samples\Documentation\obj\Debug\net10.0\Documentation.dll
+C:\Users\antony.jacob\Programming\Samples\Documentation\obj\Debug\net10.0\refint\Documentation.dll
+C:\Users\antony.jacob\Programming\Samples\Documentation\obj\Debug\net10.0\Documentation.pdb
+C:\Users\antony.jacob\Programming\Samples\Documentation\obj\Debug\net10.0\Documentation.genruntimeconfig.cache
+C:\Users\antony.jacob\Programming\Samples\Documentation\obj\Debug\net10.0\ref\Documentation.dll
+C:\Users\antony.jacob\Programming\Samples\Documentation\obj\Debug\net10.0\Document.9C39D0E1.Up2Date

@@ -1,0 +1,16 @@
+C:\Users\antony.jacob\Programming\Samples\Order\bin\Debug\net10.0\Order.exe
+C:\Users\antony.jacob\Programming\Samples\Order\bin\Debug\net10.0\Order.deps.json
+C:\Users\antony.jacob\Programming\Samples\Order\bin\Debug\net10.0\Order.runtimeconfig.json
+C:\Users\antony.jacob\Programming\Samples\Order\bin\Debug\net10.0\Order.dll
+C:\Users\antony.jacob\Programming\Samples\Order\bin\Debug\net10.0\Order.pdb
+C:\Users\antony.jacob\Programming\Samples\Order\obj\Debug\net10.0\Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antony.jacob\Programming\Samples\Order\obj\Debug\net10.0\Order.AssemblyInfoInputs.cache
+C:\Users\antony.jacob\Programming\Samples\Order\obj\Debug\net10.0\Order.AssemblyInfo.cs
+C:\Users\antony.jacob\Programming\Samples\Order\obj\Debug\net10.0\Order.csproj.CoreCompileInputs.cache
+C:\Users\antony.jacob\Programming\Samples\Order\obj\Debug\net10.0\Order.sourcelink.json
+C:\Users\antony.jacob\Programming\Samples\Order\obj\Debug\net10.0\Order.dll
+C:\Users\antony.jacob\Programming\Samples\Order\obj\Debug\net10.0\refint\Order.dll
+C:\Users\antony.jacob\Programming\Samples\Order\obj\Debug\net10.0\Order.pdb
+C:\Users\antony.jacob\Programming\Samples\Order\obj\Debug\net10.0\Order.genruntimeconfig.cache
+C:\Users\antony.jacob\Programming\Samples\Order\obj\Debug\net10.0\ref\Order.dll
+C:\Users\antony.jacob\Programming\Samples\Order\obj\Debug\net10.0\Order.csproj.Up2Date
