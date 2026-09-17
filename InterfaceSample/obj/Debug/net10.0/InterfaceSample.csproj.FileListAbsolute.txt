@@ -1,0 +1,16 @@
+C:\Users\antony.jacob\Programming\Samples\InterfaceSample\bin\Debug\net10.0\InterfaceSample.exe
+C:\Users\antony.jacob\Programming\Samples\InterfaceSample\bin\Debug\net10.0\InterfaceSample.deps.json
+C:\Users\antony.jacob\Programming\Samples\InterfaceSample\bin\Debug\net10.0\InterfaceSample.runtimeconfig.json
+C:\Users\antony.jacob\Programming\Samples\InterfaceSample\bin\Debug\net10.0\InterfaceSample.dll
+C:\Users\antony.jacob\Programming\Samples\InterfaceSample\bin\Debug\net10.0\InterfaceSample.pdb
+C:\Users\antony.jacob\Programming\Samples\InterfaceSample\obj\Debug\net10.0\InterfaceSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antony.jacob\Programming\Samples\InterfaceSample\obj\Debug\net10.0\InterfaceSample.AssemblyInfoInputs.cache
+C:\Users\antony.jacob\Programming\Samples\InterfaceSample\obj\Debug\net10.0\InterfaceSample.AssemblyInfo.cs
+C:\Users\antony.jacob\Programming\Samples\InterfaceSample\obj\Debug\net10.0\InterfaceSample.csproj.CoreCompileInputs.cache
+C:\Users\antony.jacob\Programming\Samples\InterfaceSample\obj\Debug\net10.0\InterfaceSample.sourcelink.json
+C:\Users\antony.jacob\Programming\Samples\InterfaceSample\obj\Debug\net10.0\InterfaceSample.dll
+C:\Users\antony.jacob\Programming\Samples\InterfaceSample\obj\Debug\net10.0\refint\InterfaceSample.dll
+C:\Users\antony.jacob\Programming\Samples\InterfaceSample\obj\Debug\net10.0\InterfaceSample.pdb
+C:\Users\antony.jacob\Programming\Samples\InterfaceSample\obj\Debug\net10.0\InterfaceSample.genruntimeconfig.cache
+C:\Users\antony.jacob\Programming\Samples\InterfaceSample\obj\Debug\net10.0\ref\InterfaceSample.dll
+C:\Users\antony.jacob\Programming\Samples\InterfaceSample\obj\Debug\net10.0\Interfac.FD32DF6D.Up2Date
