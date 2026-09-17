@@ -6,3 +6,5 @@ Rating m1 = new Rating(101, "Interstellar",d1,1400000,Rate.VeryGood,Genre.SciFi)
 m1.PrintMovieDetials();
 m1.PrintRatingDetials();
 m1.PrintGenreDetails();
+
+Console.ReadLine();

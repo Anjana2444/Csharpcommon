@@ -22,3 +22,5 @@ Console.WriteLine($"Credit Card Number: {c1.CardNumber}");
 c1.CreditCardPayment();
 c1.Transaction();
 c1.SendNotification();
+
+Console.ReadLine();

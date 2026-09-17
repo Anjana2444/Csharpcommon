@@ -53,3 +53,5 @@ foreach (Product o in Items.Values)
 {
     Console.WriteLine($"Product Name: {o.Name}");
 }
+
+Console.ReadLine();

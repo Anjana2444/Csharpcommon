@@ -18,3 +18,5 @@ m1.Gender = "Female";
 m1.HasShortHair = false;
 m1.GetIntroduction(m1.Name, m1.Gender, m1.Age, m1.Designation);
 m1.Working(m1.Name);
+
+Console.ReadLine();

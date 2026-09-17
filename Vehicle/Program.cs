@@ -17,3 +17,5 @@ l1.Brand = "Bharat Benz";
 Console.WriteLine($"Lorry: {l1.Brand}");
 l1.Start();
 l1.LoadDetails();
+
+Console.ReadLine();
