@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Humans
 {
-    internal class Employee:Persons
+    internal class Employee:Students
     {
         public String EmpName{ get; set; }
         public string CompanyName { get; set; }

@@ -14,3 +14,7 @@ e1.EmpName = "Dona Rose";
 e1.CompanyName = "42 Square";
 e1.GoingToOffice();
 e1.Breathing();
+e1.StuName = "Xyz";
+e1.SchoolName = "school";
+e1.GoingToSchool();
+

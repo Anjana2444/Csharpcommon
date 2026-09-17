@@ -40,25 +40,40 @@
 //d1.CardPayment();
 //d1.Transaction();
 
-pdf p1 = new pdf();
-p1.PdfId = 1;
-p1.Title = "42 Square";
-Console.WriteLine($"The title is :{p1.Title}");
-p1.Pages = 45;
-p1.DisplayPageNo();
-p1.Content();
-p1.TimeToRead();
+//pdf p1 = new pdf();
+//p1.PdfId = 1;
+//p1.Title = "42 Square";
+//Console.WriteLine($"The title is :{p1.Title}");
+//p1.Pages = 45;
+//p1.DisplayPageNo();
+//p1.Content();
+//p1.TimeToRead();
 
-Console.WriteLine();
-wordDoc w1 = new wordDoc();
+//Console.WriteLine();
+//wordDoc w1 = new wordDoc();
 
-w1.DocId = 1;
-w1.Title = "Rules and Regulation";
-Console.WriteLine($"The title is :{w1.Title}");
-w1.Pages = 100;
-w1.DisplayPageNo();
-w1.Content();
-w1.TimeToRead();
+//w1.DocId = 1;
+//w1.Title = "Rules and Regulation";
+//Console.WriteLine($"The title is :{w1.Title}");
+//w1.Pages = 100;
+//w1.DisplayPageNo();
+//w1.Content();
+//w1.TimeToRead();
+
+SavingAccount s1 = new SavingAccount();
+s1.SetName("Dona", "Rose");
+ var bal = s1.CheckBalance();
+Console.WriteLine($"{bal}");
+s1.Widthdraw(500);
+bal = s1.CheckBalance();
+Console.WriteLine($"{bal}");
+
+CurrentAccount c1 = new CurrentAccount();
+var bal1 = c1.CheckBalance();
+Console.WriteLine($"{bal1}");
+c1.Widthdraw(500);
+bal1 = c1.CheckBalance();
+Console.WriteLine($"{bal1}");
 
 
 
