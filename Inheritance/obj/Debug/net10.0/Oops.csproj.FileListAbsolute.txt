@@ -13,3 +13,4 @@ C:\Users\muhammedadil.cp\Programming Training\Inheritance\obj\Debug\net10.0\Oops
 C:\Users\muhammedadil.cp\Programming Training\Inheritance\obj\Debug\net10.0\Oops.genruntimeconfig.cache
 C:\Users\muhammedadil.cp\Programming Training\Inheritance\obj\Debug\net10.0\ref\Oops.dll
 C:\Users\muhammedadil.cp\Programming Training\Inheritance\obj\Debug\net10.0\Oops.csproj.Up2Date
+C:\Users\muhammedadil.cp\Programming Training\Inheritance\obj\Debug\net10.0\Oops.sourcelink.json

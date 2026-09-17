@@ -57,33 +57,53 @@
 
 //Assignment 1
 
-Child c1 = new Child();
-c1.ChildId = 1;
-c1.CitizenId = 101;
-c1.IdGeneration();
-c1.ChildIdGeneration();
-Console.WriteLine($"CitizenId: {c1.CitizenId}");
-Console.WriteLine($"Child Id: {c1.ChildId}");
+//Child c1 = new Child();
+//c1.ChildId = 1;
+//c1.CitizenId = 101;
+//c1.IdGeneration();
+//c1.ChildIdGeneration();
+//Console.WriteLine($"CitizenId: {c1.CitizenId}");
+//Console.WriteLine($"Child Id: {c1.ChildId}");
 
-Console.WriteLine();
+//Console.WriteLine();
 
-Student s1 = new Student();
-s1.StudentId = 2;
-s1.CitizenId = 201;
-s1.IdGeneration();
-s1.StudentIdGeneration();
-Console.WriteLine($"CitizenId: {s1.CitizenId}");
-Console.WriteLine($"Student Id: {s1.StudentId}");
+//Student s1 = new Student();
+//s1.StudentId = 2;
+//s1.CitizenId = 201;
+//s1.IdGeneration();
+//s1.StudentIdGeneration();
+//Console.WriteLine($"CitizenId: {s1.CitizenId}");
+//Console.WriteLine($"Student Id: {s1.StudentId}");
 
-Console.WriteLine();
+//Console.WriteLine();
+  
+//Employee e1 = new Employee();
+//e1.EmployeeId = 3;
+//e1.CitizenId = 301;
+//e1.IdGeneration();
+//e1.EmployeeIdGeneration();
+//Console.WriteLine($"CitizenId: {s1.CitizenId}");
+//Console.WriteLine($"Student Id: {e1.EmployeeId}");
 
-Employee e1 = new Employee();
-e1.EmployeeId = 3;
-e1.CitizenId = 301;
-e1.IdGeneration();
-e1.EmployeeIdGeneration();
-Console.WriteLine($"CitizenId: {s1.CitizenId}");
-Console.WriteLine($"Student Id: {e1.EmployeeId}");
+//OOPs Sample
+
+//SavingsAccount s1= new SavingsAccount();
+//s1.SetName("adil","Muhammed");
+////Console.WriteLine(s1.FirstName);
+//Console.WriteLine(s1.Accountnumber);
+
+//var balance1=s1.CheckBalance();
+//Console.WriteLine($"Current Balance is : {balance1}");
+//s1.Withdraw(500);
+//balance1 = s1.CheckBalance();
+//Console.WriteLine($"Current Balance is : {balance1}");
+
+//CurrentAccount c1 = new CurrentAccount();
+//var balance2 = c1.CheckBalance();
+//Console.WriteLine($"Current Balance is : {balance2}");
+//c1.Withdraw(500);
+//balance2 = c1.CheckBalance();  
+//Console.WriteLine($"Current Balance is : {balance2}");
 
 
 

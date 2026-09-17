@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muhammedadil.cp\\Programming Training\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C78CF1-3D6C-4028-8689-C29BE38401C9}|..\\InterfaceSample\\InterfaceSample.csproj|c:\\users\\muhammedadil.cp\\programming training\\interfacesample\\normalprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C78CF1-3D6C-4028-8689-C29BE38401C9}|..\\InterfaceSample\\InterfaceSample.csproj|c:\\users\\muhammedadil.cp\\programming training\\interfacesample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C78CF1-3D6C-4028-8689-C29BE38401C9}|..\\InterfaceSample\\InterfaceSample.csproj|c:\\users\\muhammedadil.cp\\programming training\\interfacesample\\advancedprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C78CF1-3D6C-4028-8689-C29BE38401C9}|..\\InterfaceSample\\InterfaceSample.csproj|c:\\users\\muhammedadil.cp\\programming training\\interfacesample\\multifunctionprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7C342E-FF00-2D9D-9787-2537027D63EA}|Oops.csproj|c:\\users\\muhammedadil.cp\\programming training\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7C342E-FF00-2D9D-9787-2537027D63EA}|Oops.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C78CF1-3D6C-4028-8689-C29BE38401C9}|..\\InterfaceSample\\InterfaceSample.csproj|c:\\users\\muhammedadil.cp\\programming training\\interfacesample\\digitalcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C78CF1-3D6C-4028-8689-C29BE38401C9}|..\\InterfaceSample\\InterfaceSample.csproj|c:\\users\\muhammedadil.cp\\programming training\\interfacesample\\tablet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C78CF1-3D6C-4028-8689-C29BE38401C9}|..\\InterfaceSample\\InterfaceSample.csproj|c:\\users\\muhammedadil.cp\\programming training\\interfacesample\\iscannable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C78CF1-3D6C-4028-8689-C29BE38401C9}|..\\InterfaceSample\\InterfaceSample.csproj|c:\\users\\muhammedadil.cp\\programming training\\interfacesample\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C78CF1-3D6C-4028-8689-C29BE38401C9}|..\\InterfaceSample\\InterfaceSample.csproj|c:\\users\\muhammedadil.cp\\programming training\\interfacesample\\ifaxable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C78CF1-3D6C-4028-8689-C29BE38401C9}|..\\InterfaceSample\\InterfaceSample.csproj|c:\\users\\muhammedadil.cp\\programming training\\interfacesample\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C78CF1-3D6C-4028-8689-C29BE38401C9}|..\\InterfaceSample\\InterfaceSample.csproj|c:\\users\\muhammedadil.cp\\programming training\\interfacesample\\icall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C78CF1-3D6C-4028-8689-C29BE38401C9}|..\\InterfaceSample\\InterfaceSample.csproj|c:\\users\\muhammedadil.cp\\programming training\\interfacesample\\icamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7C342E-FF00-2D9D-9787-2537027D63EA}|Oops.csproj|c:\\users\\muhammedadil.cp\\programming training\\inheritance\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7C342E-FF00-2D9D-9787-2537027D63EA}|Oops.csproj|solutionrelative:savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7C342E-FF00-2D9D-9787-2537027D63EA}|Oops.csproj|c:\\users\\muhammedadil.cp\\programming training\\inheritance\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7C342E-FF00-2D9D-9787-2537027D63EA}|Oops.csproj|solutionrelative:currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7C342E-FF00-2D9D-9787-2537027D63EA}|Oops.csproj|c:\\users\\muhammedadil.cp\\programming training\\inheritance\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7C342E-FF00-2D9D-9787-2537027D63EA}|Oops.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 258,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muhammedadil.cp\\Programming Training\\InterfaceSample\\Program.cs",
+              "RelativeDocumentMoniker": "..\\InterfaceSample\\Program.cs",
+              "ToolTip": "C:\\Users\\muhammedadil.cp\\Programming Training\\InterfaceSample\\Program.cs",
+              "RelativeToolTip": "..\\InterfaceSample\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T04:54:30.799Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muhammedadil.cp\\Programming Training\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\muhammedadil.cp\\Programming Training\\Inheritance\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T05:54:07.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MultiFunctionPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\muhammedadil.cp\\Programming Training\\InterfaceSample\\MultiFunctionPrinter.cs",
+              "RelativeDocumentMoniker": "..\\InterfaceSample\\MultiFunctionPrinter.cs",
+              "ToolTip": "C:\\Users\\muhammedadil.cp\\Programming Training\\InterfaceSample\\MultiFunctionPrinter.cs",
+              "RelativeToolTip": "..\\InterfaceSample\\MultiFunctionPrinter.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T10:40:15.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdvancedPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\muhammedadil.cp\\Programming Training\\InterfaceSample\\AdvancedPrinter.cs",
+              "RelativeDocumentMoniker": "..\\InterfaceSample\\AdvancedPrinter.cs",
+              "ToolTip": "C:\\Users\\muhammedadil.cp\\Programming Training\\InterfaceSample\\AdvancedPrinter.cs",
+              "RelativeToolTip": "..\\InterfaceSample\\AdvancedPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T10:39:59.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NormalPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\muhammedadil.cp\\Programming Training\\InterfaceSample\\NormalPrinter.cs",
+              "RelativeDocumentMoniker": "..\\InterfaceSample\\NormalPrinter.cs",
+              "ToolTip": "C:\\Users\\muhammedadil.cp\\Programming Training\\InterfaceSample\\NormalPrinter.cs",
+              "RelativeToolTip": "..\\InterfaceSample\\NormalPrinter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T10:39:45.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFaxable.cs",
+              "DocumentMoniker": "C:\\Users\\muhammedadil.cp\\Programming Training\\InterfaceSample\\IFaxable.cs",
+              "RelativeDocumentMoniker": "..\\InterfaceSample\\IFaxable.cs",
+              "ToolTip": "C:\\Users\\muhammedadil.cp\\Programming Training\\InterfaceSample\\IFaxable.cs",
+              "RelativeToolTip": "..\\InterfaceSample\\IFaxable.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T10:39:15.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IScannable.cs",
+              "DocumentMoniker": "C:\\Users\\muhammedadil.cp\\Programming Training\\InterfaceSample\\IScannable.cs",
+              "RelativeDocumentMoniker": "..\\InterfaceSample\\IScannable.cs",
+              "ToolTip": "C:\\Users\\muhammedadil.cp\\Programming Training\\InterfaceSample\\IScannable.cs",
+              "RelativeToolTip": "..\\InterfaceSample\\IScannable.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T10:37:43.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPrintable.cs",
+              "DocumentMoniker": "C:\\Users\\muhammedadil.cp\\Programming Training\\InterfaceSample\\IPrintable.cs",
+              "RelativeDocumentMoniker": "..\\InterfaceSample\\IPrintable.cs",
+              "ToolTip": "C:\\Users\\muhammedadil.cp\\Programming Training\\InterfaceSample\\IPrintable.cs",
+              "RelativeToolTip": "..\\InterfaceSample\\IPrintable.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T10:35:37.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\muhammedadil.cp\\Programming Training\\Inheritance\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "C:\\Users\\muhammedadil.cp\\Programming Training\\Inheritance\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T08:39:14.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "C:\\Users\\muhammedadil.cp\\Programming Training\\Inheritance\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "CurrentAccount.cs",
+              "ToolTip": "C:\\Users\\muhammedadil.cp\\Programming Training\\Inheritance\\CurrentAccount.cs",
+              "RelativeToolTip": "CurrentAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T05:59:25.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\muhammedadil.cp\\Programming Training\\Inheritance\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\muhammedadil.cp\\Programming Training\\Inheritance\\SavingsAccount.cs",
+              "RelativeToolTip": "SavingsAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T05:59:04.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DigitalCamera.cs",
+              "DocumentMoniker": "C:\\Users\\muhammedadil.cp\\Programming Training\\InterfaceSample\\DigitalCamera.cs",
+              "RelativeDocumentMoniker": "..\\InterfaceSample\\DigitalCamera.cs",
+              "ToolTip": "C:\\Users\\muhammedadil.cp\\Programming Training\\InterfaceSample\\DigitalCamera.cs",
+              "RelativeToolTip": "..\\InterfaceSample\\DigitalCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T05:07:19.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tablet.cs",
+              "DocumentMoniker": "C:\\Users\\muhammedadil.cp\\Programming Training\\InterfaceSample\\Tablet.cs",
+              "RelativeDocumentMoniker": "..\\InterfaceSample\\Tablet.cs",
+              "ToolTip": "C:\\Users\\muhammedadil.cp\\Programming Training\\InterfaceSample\\Tablet.cs",
+              "RelativeToolTip": "..\\InterfaceSample\\Tablet.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T05:07:06.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "C:\\Users\\muhammedadil.cp\\Programming Training\\InterfaceSample\\Phone.cs",
+              "RelativeDocumentMoniker": "..\\InterfaceSample\\Phone.cs",
+              "ToolTip": "C:\\Users\\muhammedadil.cp\\Programming Training\\InterfaceSample\\Phone.cs",
+              "RelativeToolTip": "..\\InterfaceSample\\Phone.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T05:06:56.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICall.cs",
+              "DocumentMoniker": "C:\\Users\\muhammedadil.cp\\Programming Training\\InterfaceSample\\ICall.cs",
+              "RelativeDocumentMoniker": "..\\InterfaceSample\\ICall.cs",
+              "ToolTip": "C:\\Users\\muhammedadil.cp\\Programming Training\\InterfaceSample\\ICall.cs",
+              "RelativeToolTip": "..\\InterfaceSample\\ICall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T05:06:11.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICamera.cs",
+              "DocumentMoniker": "C:\\Users\\muhammedadil.cp\\Programming Training\\InterfaceSample\\ICamera.cs",
+              "RelativeDocumentMoniker": "..\\InterfaceSample\\ICamera.cs",
+              "ToolTip": "C:\\Users\\muhammedadil.cp\\Programming Training\\InterfaceSample\\ICamera.cs",
+              "RelativeToolTip": "..\\InterfaceSample\\ICamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T05:04:27.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
