@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Printer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2a6e93027fbd9fd03ec009a7fc5b6cfad22fcad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df07c909035a66b8f4ae2d0a0f0451e786149a85")]
 [assembly: System.Reflection.AssemblyProductAttribute("Printer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Printer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
