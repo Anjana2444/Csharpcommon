@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BankAccount/BankAccounts.csproj" />
+  <Project Path="InterfaceSample/InterfaceSample.csproj" />
+  <Project Path="Printer/Printer.csproj" />
+</Solution>
