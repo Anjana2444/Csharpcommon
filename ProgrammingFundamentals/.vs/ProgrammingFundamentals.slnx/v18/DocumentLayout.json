@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\anjana.rajan\\Workshop\\Programming\\ProgrammingFundamentals\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{643352DB-897C-85DA-D7F9-D817B75E7B5F}|MyFirstProject\\MyFirstProject.csproj|c:\\users\\anjana.rajan\\workshop\\programming\\programmingfundamentals\\myfirstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{643352DB-897C-85DA-D7F9-D817B75E7B5F}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09D23DFD-96EE-4029-A1A4-C89F96FEDD8D}|Study\\Study.csproj|c:\\users\\anjana.rajan\\workshop\\programming\\programmingfundamentals\\study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D23DFD-96EE-4029-A1A4-C89F96FEDD8D}|Study\\Study.csproj|solutionrelative:study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{643352DB-897C-85DA-D7F9-D817B75E7B5F}|MyFirstProject\\MyFirstProject.csproj|c:\\users\\anjana.rajan\\workshop\\programming\\programmingfundamentals\\myfirstproject\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{643352DB-897C-85DA-D7F9-D817B75E7B5F}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09D23DFD-96EE-4029-A1A4-C89F96FEDD8D}|Study\\Study.csproj|c:\\users\\anjana.rajan\\workshop\\programming\\programmingfundamentals\\study\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D23DFD-96EE-4029-A1A4-C89F96FEDD8D}|Study\\Study.csproj|solutionrelative:study\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\anjana.rajan\\Workshop\\Programming\\ProgrammingFundamentals\\MyFirstProject\\Student.cs",
-              "RelativeDocumentMoniker": "MyFirstProject\\Student.cs",
-              "ToolTip": "C:\\Users\\anjana.rajan\\Workshop\\Programming\\ProgrammingFundamentals\\MyFirstProject\\Student.cs",
-              "RelativeToolTip": "MyFirstProject\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\anjana.rajan\\Workshop\\Programming\\ProgrammingFundamentals\\Study\\Students.cs",
+              "RelativeDocumentMoniker": "Study\\Students.cs",
+              "ToolTip": "C:\\Users\\anjana.rajan\\Workshop\\Programming\\ProgrammingFundamentals\\Study\\Students.cs*",
+              "RelativeToolTip": "Study\\Students.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T06:02:30.96Z",
+              "WhenOpened": "2026-09-21T03:38:11.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\anjana.rajan\\Workshop\\Programming\\ProgrammingFundamentals\\MyFirstProject\\Program.cs",
-              "RelativeDocumentMoniker": "MyFirstProject\\Program.cs",
-              "ToolTip": "C:\\Users\\anjana.rajan\\Workshop\\Programming\\ProgrammingFundamentals\\MyFirstProject\\Program.cs",
-              "RelativeToolTip": "MyFirstProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\anjana.rajan\\Workshop\\Programming\\ProgrammingFundamentals\\Study\\Program.cs",
+              "RelativeDocumentMoniker": "Study\\Program.cs",
+              "ToolTip": "C:\\Users\\anjana.rajan\\Workshop\\Programming\\ProgrammingFundamentals\\Study\\Program.cs",
+              "RelativeToolTip": "Study\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T05:43:28.373Z",
+              "WhenOpened": "2026-09-21T03:37:51.841Z",
               "EditorCaption": ""
             }
           ]

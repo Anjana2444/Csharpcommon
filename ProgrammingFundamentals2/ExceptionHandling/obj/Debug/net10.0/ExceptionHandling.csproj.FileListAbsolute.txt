@@ -1,0 +1,16 @@
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\ExceptionHandling\bin\Debug\net10.0\ExceptionHandling.exe
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\ExceptionHandling\bin\Debug\net10.0\ExceptionHandling.deps.json
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\ExceptionHandling\bin\Debug\net10.0\ExceptionHandling.runtimeconfig.json
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\ExceptionHandling\bin\Debug\net10.0\ExceptionHandling.dll
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\ExceptionHandling\bin\Debug\net10.0\ExceptionHandling.pdb
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\ExceptionHandling\obj\Debug\net10.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\ExceptionHandling\obj\Debug\net10.0\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\ExceptionHandling\obj\Debug\net10.0\ExceptionHandling.AssemblyInfo.cs
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\ExceptionHandling\obj\Debug\net10.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\ExceptionHandling\obj\Debug\net10.0\ExceptionHandling.sourcelink.json
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\ExceptionHandling\obj\Debug\net10.0\ExceptionHandling.dll
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\ExceptionHandling\obj\Debug\net10.0\refint\ExceptionHandling.dll
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\ExceptionHandling\obj\Debug\net10.0\ExceptionHandling.pdb
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\ExceptionHandling\obj\Debug\net10.0\ExceptionHandling.genruntimeconfig.cache
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\ExceptionHandling\obj\Debug\net10.0\ref\ExceptionHandling.dll
+C:\Users\anjana.rajan\Workshop\Programming\ProgrammingFundamentals2\ExceptionHandling\obj\Debug\net10.0\Exceptio.933EDDC3.Up2Date

@@ -2,6 +2,7 @@
   <Project Path="Calculator/Calculator.csproj" Id="2c0db98f-27d5-4ddb-8775-1a495c4794b5" />
   <Project Path="Car/Car.csproj" Id="dfa312aa-d8a4-4905-8ea2-b2ce52d18644" />
   <Project Path="Employee/Employee.csproj" />
+  <Project Path="ExceptionHandling/ExceptionHandling.csproj" Id="1095eb08-045f-4ef0-ab08-7577f7498f31" />
   <Project Path="Library/Library.csproj" Id="d8593dea-eccd-4ab3-900b-9759e7426959" />
   <Project Path="Movie/Movie.csproj" Id="6509d318-6eec-4d7d-8ba7-a285c95d5d5a" />
   <Project Path="Oops/Oops.csproj" Id="8675d4fa-0aaa-449f-beb5-63fdac32840d" />
