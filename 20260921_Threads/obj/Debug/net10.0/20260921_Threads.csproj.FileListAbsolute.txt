@@ -1,0 +1,16 @@
+C:\Users\donarose.shiju\Programming\Programming\20260921_Threads\bin\Debug\net10.0\20260921_Threads.exe
+C:\Users\donarose.shiju\Programming\Programming\20260921_Threads\bin\Debug\net10.0\20260921_Threads.deps.json
+C:\Users\donarose.shiju\Programming\Programming\20260921_Threads\bin\Debug\net10.0\20260921_Threads.runtimeconfig.json
+C:\Users\donarose.shiju\Programming\Programming\20260921_Threads\bin\Debug\net10.0\20260921_Threads.dll
+C:\Users\donarose.shiju\Programming\Programming\20260921_Threads\bin\Debug\net10.0\20260921_Threads.pdb
+C:\Users\donarose.shiju\Programming\Programming\20260921_Threads\obj\Debug\net10.0\20260921_Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donarose.shiju\Programming\Programming\20260921_Threads\obj\Debug\net10.0\20260921_Threads.AssemblyInfoInputs.cache
+C:\Users\donarose.shiju\Programming\Programming\20260921_Threads\obj\Debug\net10.0\20260921_Threads.AssemblyInfo.cs
+C:\Users\donarose.shiju\Programming\Programming\20260921_Threads\obj\Debug\net10.0\20260921_Threads.csproj.CoreCompileInputs.cache
+C:\Users\donarose.shiju\Programming\Programming\20260921_Threads\obj\Debug\net10.0\20260921_Threads.sourcelink.json
+C:\Users\donarose.shiju\Programming\Programming\20260921_Threads\obj\Debug\net10.0\20260921_Threads.dll
+C:\Users\donarose.shiju\Programming\Programming\20260921_Threads\obj\Debug\net10.0\refint\20260921_Threads.dll
+C:\Users\donarose.shiju\Programming\Programming\20260921_Threads\obj\Debug\net10.0\20260921_Threads.pdb
+C:\Users\donarose.shiju\Programming\Programming\20260921_Threads\obj\Debug\net10.0\20260921_Threads.genruntimeconfig.cache
+C:\Users\donarose.shiju\Programming\Programming\20260921_Threads\obj\Debug\net10.0\ref\20260921_Threads.dll
+C:\Users\donarose.shiju\Programming\Programming\20260921_Threads\obj\Debug\net10.0\20260921.91160C96.Up2Date

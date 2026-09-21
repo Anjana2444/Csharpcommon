@@ -13,3 +13,4 @@ C:\Users\donarose.shiju\Programming\Programming\TemperatureConverter\obj\Debug\n
 C:\Users\donarose.shiju\Programming\Programming\TemperatureConverter\obj\Debug\net10.0\TemperatureConverter.genruntimeconfig.cache
 C:\Users\donarose.shiju\Programming\Programming\TemperatureConverter\obj\Debug\net10.0\ref\TemperatureConverter.dll
 C:\Users\donarose.shiju\Programming\Programming\TemperatureConverter\obj\Debug\net10.0\Temperat.C748F204.Up2Date
+C:\Users\donarose.shiju\Programming\Programming\TemperatureConverter\obj\Debug\net10.0\TemperatureConverter.sourcelink.json

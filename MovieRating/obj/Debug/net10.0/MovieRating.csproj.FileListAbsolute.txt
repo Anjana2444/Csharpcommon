@@ -13,3 +13,4 @@ C:\Users\donarose.shiju\Programming\Programming\MovieRating\obj\Debug\net10.0\Mo
 C:\Users\donarose.shiju\Programming\Programming\MovieRating\obj\Debug\net10.0\MovieRating.genruntimeconfig.cache
 C:\Users\donarose.shiju\Programming\Programming\MovieRating\obj\Debug\net10.0\ref\MovieRating.dll
 C:\Users\donarose.shiju\Programming\Programming\MovieRating\obj\Debug\net10.0\MovieRat.B5F3D9DB.Up2Date
+C:\Users\donarose.shiju\Programming\Programming\MovieRating\obj\Debug\net10.0\MovieRating.sourcelink.json

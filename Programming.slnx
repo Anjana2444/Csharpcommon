@@ -1,0 +1,20 @@
+<Solution>
+  <Folder Name="/Core .net &amp;c#/">
+    <Project Path="OddEven/OddEven.csproj" Id="ed661956-bb3f-4ad4-b2a3-8d275bdd0495" />
+    <Project Path="SampleThread/SampleThread.csproj" Id="d36cef8f-6346-4be9-90f1-41854b31c976" />
+  </Folder>
+  <Project Path="20260921_Threads/20260921_Threads.csproj" Id="52c82f54-23bf-4bb7-94f5-21704b8ef236" />
+  <Project Path="Calculator/Calculator.csproj" Id="6b368d13-4b2b-40b1-bd0f-0555bccc63c0" />
+  <Project Path="college/college.csproj" Id="ec48516f-75c0-4654-896c-0ef1085799b5" />
+  <Project Path="DemoApp/Demo/Demo.csproj" />
+  <Project Path="ExceptionHandling/ExceptionHandling.csproj" Id="3b14fe15-3ec9-417f-afb3-829232729ffa" />
+  <Project Path="FirstApp/FirstApp.csproj" />
+  <Project Path="Humans/Humans.csproj" Id="eae58899-1e3a-492b-8f20-a54438e367cd" />
+  <Project Path="Inheritance/oops.csproj" Id="a564a15b-3574-4f7e-84a0-619d8c1261ba" />
+  <Project Path="InterfaceSample/InterfaceSample.csproj" Id="468056f5-6811-414a-bffc-3b487a3f7863" />
+  <Project Path="Library/Library.csproj" Id="4bcf2956-8e5d-437e-a8eb-33b40b28d3e3" />
+  <Project Path="MovieRating/MovieRating.csproj" Id="a97ca020-65b3-4092-a5f5-6584f4c31230" />
+  <Project Path="Order/Order.csproj" Id="0149b66e-5efb-44b0-9c29-64d86d922bf8" />
+  <Project Path="Printer/Printer.csproj" Id="e2eb6fd7-0608-414d-81cc-e00b67ecfffa" />
+  <Project Path="TemperatureConverter/TemperatureConverter.csproj" Id="9ec02660-b645-4a96-9b0e-297ec7683e3f" />
+</Solution>

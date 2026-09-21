@@ -13,3 +13,4 @@ C:\Users\donarose.shiju\Programming\Programming\FirstApp\obj\Debug\net10.0\First
 C:\Users\donarose.shiju\Programming\Programming\FirstApp\obj\Debug\net10.0\FirstApp.genruntimeconfig.cache
 C:\Users\donarose.shiju\Programming\Programming\FirstApp\obj\Debug\net10.0\ref\FirstApp.dll
 C:\Users\donarose.shiju\Programming\Programming\FirstApp\obj\Debug\net10.0\FirstApp.csproj.Up2Date
+C:\Users\donarose.shiju\Programming\Programming\FirstApp\obj\Debug\net10.0\FirstApp.sourcelink.json

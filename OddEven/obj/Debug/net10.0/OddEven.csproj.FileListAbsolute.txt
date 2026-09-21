@@ -1,0 +1,16 @@
+C:\Users\donarose.shiju\Programming\Programming\OddEven\bin\Debug\net10.0\OddEven.exe
+C:\Users\donarose.shiju\Programming\Programming\OddEven\bin\Debug\net10.0\OddEven.deps.json
+C:\Users\donarose.shiju\Programming\Programming\OddEven\bin\Debug\net10.0\OddEven.runtimeconfig.json
+C:\Users\donarose.shiju\Programming\Programming\OddEven\bin\Debug\net10.0\OddEven.dll
+C:\Users\donarose.shiju\Programming\Programming\OddEven\bin\Debug\net10.0\OddEven.pdb
+C:\Users\donarose.shiju\Programming\Programming\OddEven\obj\Debug\net10.0\OddEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donarose.shiju\Programming\Programming\OddEven\obj\Debug\net10.0\OddEven.AssemblyInfoInputs.cache
+C:\Users\donarose.shiju\Programming\Programming\OddEven\obj\Debug\net10.0\OddEven.AssemblyInfo.cs
+C:\Users\donarose.shiju\Programming\Programming\OddEven\obj\Debug\net10.0\OddEven.csproj.CoreCompileInputs.cache
+C:\Users\donarose.shiju\Programming\Programming\OddEven\obj\Debug\net10.0\OddEven.sourcelink.json
+C:\Users\donarose.shiju\Programming\Programming\OddEven\obj\Debug\net10.0\OddEven.dll
+C:\Users\donarose.shiju\Programming\Programming\OddEven\obj\Debug\net10.0\refint\OddEven.dll
+C:\Users\donarose.shiju\Programming\Programming\OddEven\obj\Debug\net10.0\OddEven.pdb
+C:\Users\donarose.shiju\Programming\Programming\OddEven\obj\Debug\net10.0\OddEven.genruntimeconfig.cache
+C:\Users\donarose.shiju\Programming\Programming\OddEven\obj\Debug\net10.0\ref\OddEven.dll
+C:\Users\donarose.shiju\Programming\Programming\OddEven\obj\Debug\net10.0\OddEven.csproj.Up2Date

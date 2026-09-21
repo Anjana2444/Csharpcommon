@@ -13,3 +13,4 @@ C:\Users\donarose.shiju\Programming\Programming\Calculator\obj\Debug\net10.0\Cal
 C:\Users\donarose.shiju\Programming\Programming\Calculator\obj\Debug\net10.0\Calculator.genruntimeconfig.cache
 C:\Users\donarose.shiju\Programming\Programming\Calculator\obj\Debug\net10.0\ref\Calculator.dll
 C:\Users\donarose.shiju\Programming\Programming\Calculator\obj\Debug\net10.0\Calculator.csproj.Up2Date
+C:\Users\donarose.shiju\Programming\Programming\Calculator\obj\Debug\net10.0\Calculator.sourcelink.json
