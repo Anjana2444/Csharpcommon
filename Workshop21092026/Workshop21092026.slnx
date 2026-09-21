@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Project Path="odd_even/odd_even.csproj" />
+  <Project Path="Workshop21092026/Workshop21092026.csproj" />
+</Solution>

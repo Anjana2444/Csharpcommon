@@ -1,0 +1,16 @@
+C:\Users\anjana.rajan\Workshop\Programming\Workshop21092026\odd_even\bin\Debug\net10.0\odd_even.exe
+C:\Users\anjana.rajan\Workshop\Programming\Workshop21092026\odd_even\bin\Debug\net10.0\odd_even.deps.json
+C:\Users\anjana.rajan\Workshop\Programming\Workshop21092026\odd_even\bin\Debug\net10.0\odd_even.runtimeconfig.json
+C:\Users\anjana.rajan\Workshop\Programming\Workshop21092026\odd_even\bin\Debug\net10.0\odd_even.dll
+C:\Users\anjana.rajan\Workshop\Programming\Workshop21092026\odd_even\bin\Debug\net10.0\odd_even.pdb
+C:\Users\anjana.rajan\Workshop\Programming\Workshop21092026\odd_even\obj\Debug\net10.0\odd_even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjana.rajan\Workshop\Programming\Workshop21092026\odd_even\obj\Debug\net10.0\odd_even.AssemblyInfoInputs.cache
+C:\Users\anjana.rajan\Workshop\Programming\Workshop21092026\odd_even\obj\Debug\net10.0\odd_even.AssemblyInfo.cs
+C:\Users\anjana.rajan\Workshop\Programming\Workshop21092026\odd_even\obj\Debug\net10.0\odd_even.csproj.CoreCompileInputs.cache
+C:\Users\anjana.rajan\Workshop\Programming\Workshop21092026\odd_even\obj\Debug\net10.0\odd_even.sourcelink.json
+C:\Users\anjana.rajan\Workshop\Programming\Workshop21092026\odd_even\obj\Debug\net10.0\odd_even.dll
+C:\Users\anjana.rajan\Workshop\Programming\Workshop21092026\odd_even\obj\Debug\net10.0\refint\odd_even.dll
+C:\Users\anjana.rajan\Workshop\Programming\Workshop21092026\odd_even\obj\Debug\net10.0\odd_even.pdb
+C:\Users\anjana.rajan\Workshop\Programming\Workshop21092026\odd_even\obj\Debug\net10.0\odd_even.genruntimeconfig.cache
+C:\Users\anjana.rajan\Workshop\Programming\Workshop21092026\odd_even\obj\Debug\net10.0\ref\odd_even.dll
+C:\Users\anjana.rajan\Workshop\Programming\Workshop21092026\odd_even\obj\Debug\net10.0\odd_even.csproj.Up2Date
