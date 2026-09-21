@@ -1,0 +1,16 @@
+C:\Users\antony.jacob\Programming\Samples\Threading\obj\Debug\net10.0\Threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antony.jacob\Programming\Samples\Threading\obj\Debug\net10.0\Threading.AssemblyInfoInputs.cache
+C:\Users\antony.jacob\Programming\Samples\Threading\obj\Debug\net10.0\Threading.AssemblyInfo.cs
+C:\Users\antony.jacob\Programming\Samples\Threading\obj\Debug\net10.0\Threading.csproj.CoreCompileInputs.cache
+C:\Users\antony.jacob\Programming\Samples\Threading\obj\Debug\net10.0\Threading.sourcelink.json
+C:\Users\antony.jacob\Programming\Samples\Threading\bin\Debug\net10.0\Threading.exe
+C:\Users\antony.jacob\Programming\Samples\Threading\bin\Debug\net10.0\Threading.deps.json
+C:\Users\antony.jacob\Programming\Samples\Threading\bin\Debug\net10.0\Threading.runtimeconfig.json
+C:\Users\antony.jacob\Programming\Samples\Threading\bin\Debug\net10.0\Threading.dll
+C:\Users\antony.jacob\Programming\Samples\Threading\bin\Debug\net10.0\Threading.pdb
+C:\Users\antony.jacob\Programming\Samples\Threading\obj\Debug\net10.0\Threading.dll
+C:\Users\antony.jacob\Programming\Samples\Threading\obj\Debug\net10.0\refint\Threading.dll
+C:\Users\antony.jacob\Programming\Samples\Threading\obj\Debug\net10.0\Threading.pdb
+C:\Users\antony.jacob\Programming\Samples\Threading\obj\Debug\net10.0\Threading.genruntimeconfig.cache
+C:\Users\antony.jacob\Programming\Samples\Threading\obj\Debug\net10.0\ref\Threading.dll
+C:\Users\antony.jacob\Programming\Samples\Threading\obj\Debug\net10.0\Threading.csproj.Up2Date

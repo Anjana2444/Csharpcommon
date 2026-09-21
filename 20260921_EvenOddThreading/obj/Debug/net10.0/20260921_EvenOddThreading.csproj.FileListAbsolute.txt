@@ -1,0 +1,16 @@
+C:\Users\antony.jacob\Programming\Samples\20260921_EvenOddThreading\bin\Debug\net10.0\20260921_EvenOddThreading.exe
+C:\Users\antony.jacob\Programming\Samples\20260921_EvenOddThreading\bin\Debug\net10.0\20260921_EvenOddThreading.deps.json
+C:\Users\antony.jacob\Programming\Samples\20260921_EvenOddThreading\bin\Debug\net10.0\20260921_EvenOddThreading.runtimeconfig.json
+C:\Users\antony.jacob\Programming\Samples\20260921_EvenOddThreading\bin\Debug\net10.0\20260921_EvenOddThreading.dll
+C:\Users\antony.jacob\Programming\Samples\20260921_EvenOddThreading\bin\Debug\net10.0\20260921_EvenOddThreading.pdb
+C:\Users\antony.jacob\Programming\Samples\20260921_EvenOddThreading\obj\Debug\net10.0\20260921_EvenOddThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antony.jacob\Programming\Samples\20260921_EvenOddThreading\obj\Debug\net10.0\20260921_EvenOddThreading.AssemblyInfoInputs.cache
+C:\Users\antony.jacob\Programming\Samples\20260921_EvenOddThreading\obj\Debug\net10.0\20260921_EvenOddThreading.AssemblyInfo.cs
+C:\Users\antony.jacob\Programming\Samples\20260921_EvenOddThreading\obj\Debug\net10.0\20260921_EvenOddThreading.csproj.CoreCompileInputs.cache
+C:\Users\antony.jacob\Programming\Samples\20260921_EvenOddThreading\obj\Debug\net10.0\20260921_EvenOddThreading.sourcelink.json
+C:\Users\antony.jacob\Programming\Samples\20260921_EvenOddThreading\obj\Debug\net10.0\20260921_EvenOddThreading.dll
+C:\Users\antony.jacob\Programming\Samples\20260921_EvenOddThreading\obj\Debug\net10.0\refint\20260921_EvenOddThreading.dll
+C:\Users\antony.jacob\Programming\Samples\20260921_EvenOddThreading\obj\Debug\net10.0\20260921_EvenOddThreading.pdb
+C:\Users\antony.jacob\Programming\Samples\20260921_EvenOddThreading\obj\Debug\net10.0\20260921_EvenOddThreading.genruntimeconfig.cache
+C:\Users\antony.jacob\Programming\Samples\20260921_EvenOddThreading\obj\Debug\net10.0\ref\20260921_EvenOddThreading.dll
+C:\Users\antony.jacob\Programming\Samples\20260921_EvenOddThreading\obj\Debug\net10.0\20260921.09F2AC95.Up2Date
