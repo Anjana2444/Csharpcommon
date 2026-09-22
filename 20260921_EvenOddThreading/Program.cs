@@ -10,7 +10,7 @@
         {
             lock (lockObject)
             {
-                while (num % 2 == 0)
+                if (num % 2 == 0)
                 {
                     Console.WriteLine($"Even: {num}");
                     num++;
@@ -26,7 +26,7 @@
         {
             lock (lockObject)
             {
-                while (num % 2 != 0)
+                if (num % 2 != 0)
                 {
                     Console.WriteLine($"Odd: {num}");
                     num++;
