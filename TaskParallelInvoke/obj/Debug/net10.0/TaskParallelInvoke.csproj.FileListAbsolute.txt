@@ -1,0 +1,16 @@
+C:\Users\antony.jacob\Programming\Samples\TaskParallelInvoke\bin\Debug\net10.0\TaskParallelInvoke.exe
+C:\Users\antony.jacob\Programming\Samples\TaskParallelInvoke\bin\Debug\net10.0\TaskParallelInvoke.deps.json
+C:\Users\antony.jacob\Programming\Samples\TaskParallelInvoke\bin\Debug\net10.0\TaskParallelInvoke.runtimeconfig.json
+C:\Users\antony.jacob\Programming\Samples\TaskParallelInvoke\bin\Debug\net10.0\TaskParallelInvoke.dll
+C:\Users\antony.jacob\Programming\Samples\TaskParallelInvoke\bin\Debug\net10.0\TaskParallelInvoke.pdb
+C:\Users\antony.jacob\Programming\Samples\TaskParallelInvoke\obj\Debug\net10.0\TaskParallelInvoke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antony.jacob\Programming\Samples\TaskParallelInvoke\obj\Debug\net10.0\TaskParallelInvoke.AssemblyInfoInputs.cache
+C:\Users\antony.jacob\Programming\Samples\TaskParallelInvoke\obj\Debug\net10.0\TaskParallelInvoke.AssemblyInfo.cs
+C:\Users\antony.jacob\Programming\Samples\TaskParallelInvoke\obj\Debug\net10.0\TaskParallelInvoke.csproj.CoreCompileInputs.cache
+C:\Users\antony.jacob\Programming\Samples\TaskParallelInvoke\obj\Debug\net10.0\TaskParallelInvoke.sourcelink.json
+C:\Users\antony.jacob\Programming\Samples\TaskParallelInvoke\obj\Debug\net10.0\TaskParallelInvoke.dll
+C:\Users\antony.jacob\Programming\Samples\TaskParallelInvoke\obj\Debug\net10.0\refint\TaskParallelInvoke.dll
+C:\Users\antony.jacob\Programming\Samples\TaskParallelInvoke\obj\Debug\net10.0\TaskParallelInvoke.pdb
+C:\Users\antony.jacob\Programming\Samples\TaskParallelInvoke\obj\Debug\net10.0\TaskParallelInvoke.genruntimeconfig.cache
+C:\Users\antony.jacob\Programming\Samples\TaskParallelInvoke\obj\Debug\net10.0\ref\TaskParallelInvoke.dll
+C:\Users\antony.jacob\Programming\Samples\TaskParallelInvoke\obj\Debug\net10.0\TaskPara.7C03FE34.Up2Date

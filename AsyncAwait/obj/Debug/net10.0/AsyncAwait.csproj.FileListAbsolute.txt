@@ -1,0 +1,16 @@
+C:\Users\antony.jacob\Programming\Samples\AsyncAwait\bin\Debug\net10.0\AsyncAwait.exe
+C:\Users\antony.jacob\Programming\Samples\AsyncAwait\bin\Debug\net10.0\AsyncAwait.deps.json
+C:\Users\antony.jacob\Programming\Samples\AsyncAwait\bin\Debug\net10.0\AsyncAwait.runtimeconfig.json
+C:\Users\antony.jacob\Programming\Samples\AsyncAwait\bin\Debug\net10.0\AsyncAwait.dll
+C:\Users\antony.jacob\Programming\Samples\AsyncAwait\bin\Debug\net10.0\AsyncAwait.pdb
+C:\Users\antony.jacob\Programming\Samples\AsyncAwait\obj\Debug\net10.0\AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antony.jacob\Programming\Samples\AsyncAwait\obj\Debug\net10.0\AsyncAwait.AssemblyInfoInputs.cache
+C:\Users\antony.jacob\Programming\Samples\AsyncAwait\obj\Debug\net10.0\AsyncAwait.AssemblyInfo.cs
+C:\Users\antony.jacob\Programming\Samples\AsyncAwait\obj\Debug\net10.0\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\antony.jacob\Programming\Samples\AsyncAwait\obj\Debug\net10.0\AsyncAwait.sourcelink.json
+C:\Users\antony.jacob\Programming\Samples\AsyncAwait\obj\Debug\net10.0\AsyncAwait.dll
+C:\Users\antony.jacob\Programming\Samples\AsyncAwait\obj\Debug\net10.0\refint\AsyncAwait.dll
+C:\Users\antony.jacob\Programming\Samples\AsyncAwait\obj\Debug\net10.0\AsyncAwait.pdb
+C:\Users\antony.jacob\Programming\Samples\AsyncAwait\obj\Debug\net10.0\AsyncAwait.genruntimeconfig.cache
+C:\Users\antony.jacob\Programming\Samples\AsyncAwait\obj\Debug\net10.0\ref\AsyncAwait.dll
+C:\Users\antony.jacob\Programming\Samples\AsyncAwait\obj\Debug\net10.0\AsyncAwait.csproj.Up2Date
