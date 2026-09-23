@@ -1,0 +1,16 @@
+C:\Users\antony.jacob\Programming\Samples\20260922_AsyncAwait\bin\Debug\net10.0\20260922_AsyncAwait.exe
+C:\Users\antony.jacob\Programming\Samples\20260922_AsyncAwait\bin\Debug\net10.0\20260922_AsyncAwait.deps.json
+C:\Users\antony.jacob\Programming\Samples\20260922_AsyncAwait\bin\Debug\net10.0\20260922_AsyncAwait.runtimeconfig.json
+C:\Users\antony.jacob\Programming\Samples\20260922_AsyncAwait\bin\Debug\net10.0\20260922_AsyncAwait.dll
+C:\Users\antony.jacob\Programming\Samples\20260922_AsyncAwait\bin\Debug\net10.0\20260922_AsyncAwait.pdb
+C:\Users\antony.jacob\Programming\Samples\20260922_AsyncAwait\obj\Debug\net10.0\20260922_AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antony.jacob\Programming\Samples\20260922_AsyncAwait\obj\Debug\net10.0\20260922_AsyncAwait.AssemblyInfoInputs.cache
+C:\Users\antony.jacob\Programming\Samples\20260922_AsyncAwait\obj\Debug\net10.0\20260922_AsyncAwait.AssemblyInfo.cs
+C:\Users\antony.jacob\Programming\Samples\20260922_AsyncAwait\obj\Debug\net10.0\20260922_AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\antony.jacob\Programming\Samples\20260922_AsyncAwait\obj\Debug\net10.0\20260922_AsyncAwait.sourcelink.json
+C:\Users\antony.jacob\Programming\Samples\20260922_AsyncAwait\obj\Debug\net10.0\20260922_AsyncAwait.dll
+C:\Users\antony.jacob\Programming\Samples\20260922_AsyncAwait\obj\Debug\net10.0\refint\20260922_AsyncAwait.dll
+C:\Users\antony.jacob\Programming\Samples\20260922_AsyncAwait\obj\Debug\net10.0\20260922_AsyncAwait.pdb
+C:\Users\antony.jacob\Programming\Samples\20260922_AsyncAwait\obj\Debug\net10.0\20260922_AsyncAwait.genruntimeconfig.cache
+C:\Users\antony.jacob\Programming\Samples\20260922_AsyncAwait\obj\Debug\net10.0\ref\20260922_AsyncAwait.dll
+C:\Users\antony.jacob\Programming\Samples\20260922_AsyncAwait\obj\Debug\net10.0\20260922.5F1B8950.Up2Date
