@@ -1,0 +1,16 @@
+C:\Users\antony.jacob\Programming\Samples\20260923_ReferenceType\obj\Debug\net10.0\20260923_ReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antony.jacob\Programming\Samples\20260923_ReferenceType\obj\Debug\net10.0\20260923_ReferenceType.AssemblyInfoInputs.cache
+C:\Users\antony.jacob\Programming\Samples\20260923_ReferenceType\obj\Debug\net10.0\20260923_ReferenceType.AssemblyInfo.cs
+C:\Users\antony.jacob\Programming\Samples\20260923_ReferenceType\obj\Debug\net10.0\20260923_ReferenceType.csproj.CoreCompileInputs.cache
+C:\Users\antony.jacob\Programming\Samples\20260923_ReferenceType\obj\Debug\net10.0\20260923_ReferenceType.sourcelink.json
+C:\Users\antony.jacob\Programming\Samples\20260923_ReferenceType\bin\Debug\net10.0\20260923_ReferenceType.exe
+C:\Users\antony.jacob\Programming\Samples\20260923_ReferenceType\bin\Debug\net10.0\20260923_ReferenceType.deps.json
+C:\Users\antony.jacob\Programming\Samples\20260923_ReferenceType\bin\Debug\net10.0\20260923_ReferenceType.runtimeconfig.json
+C:\Users\antony.jacob\Programming\Samples\20260923_ReferenceType\bin\Debug\net10.0\20260923_ReferenceType.dll
+C:\Users\antony.jacob\Programming\Samples\20260923_ReferenceType\bin\Debug\net10.0\20260923_ReferenceType.pdb
+C:\Users\antony.jacob\Programming\Samples\20260923_ReferenceType\obj\Debug\net10.0\20260923_ReferenceType.dll
+C:\Users\antony.jacob\Programming\Samples\20260923_ReferenceType\obj\Debug\net10.0\refint\20260923_ReferenceType.dll
+C:\Users\antony.jacob\Programming\Samples\20260923_ReferenceType\obj\Debug\net10.0\20260923_ReferenceType.pdb
+C:\Users\antony.jacob\Programming\Samples\20260923_ReferenceType\obj\Debug\net10.0\20260923_ReferenceType.genruntimeconfig.cache
+C:\Users\antony.jacob\Programming\Samples\20260923_ReferenceType\obj\Debug\net10.0\ref\20260923_ReferenceType.dll
+C:\Users\antony.jacob\Programming\Samples\20260923_ReferenceType\obj\Debug\net10.0\20260923.D3DA9429.Up2Date

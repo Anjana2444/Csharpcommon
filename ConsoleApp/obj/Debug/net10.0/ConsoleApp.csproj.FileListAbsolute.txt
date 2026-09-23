@@ -1,0 +1,16 @@
+C:\Users\antony.jacob\Programming\Samples\ConsoleApp\bin\Debug\net10.0\ConsoleApp.exe
+C:\Users\antony.jacob\Programming\Samples\ConsoleApp\bin\Debug\net10.0\ConsoleApp.deps.json
+C:\Users\antony.jacob\Programming\Samples\ConsoleApp\bin\Debug\net10.0\ConsoleApp.runtimeconfig.json
+C:\Users\antony.jacob\Programming\Samples\ConsoleApp\bin\Debug\net10.0\ConsoleApp.dll
+C:\Users\antony.jacob\Programming\Samples\ConsoleApp\bin\Debug\net10.0\ConsoleApp.pdb
+C:\Users\antony.jacob\Programming\Samples\ConsoleApp\obj\Debug\net10.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antony.jacob\Programming\Samples\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\antony.jacob\Programming\Samples\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\antony.jacob\Programming\Samples\ConsoleApp\obj\Debug\net10.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\antony.jacob\Programming\Samples\ConsoleApp\obj\Debug\net10.0\ConsoleApp.sourcelink.json
+C:\Users\antony.jacob\Programming\Samples\ConsoleApp\obj\Debug\net10.0\ConsoleApp.dll
+C:\Users\antony.jacob\Programming\Samples\ConsoleApp\obj\Debug\net10.0\refint\ConsoleApp.dll
+C:\Users\antony.jacob\Programming\Samples\ConsoleApp\obj\Debug\net10.0\ConsoleApp.pdb
+C:\Users\antony.jacob\Programming\Samples\ConsoleApp\obj\Debug\net10.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\antony.jacob\Programming\Samples\ConsoleApp\obj\Debug\net10.0\ref\ConsoleApp.dll
+C:\Users\antony.jacob\Programming\Samples\ConsoleApp\obj\Debug\net10.0\ConsoleApp.csproj.Up2Date
