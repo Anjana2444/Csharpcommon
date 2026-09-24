@@ -6,11 +6,17 @@
     static string email="", sms="", name="", product_name="";
     static async Task Main(String[] args)
     {
+        name = "";
+        Console.Write("Enter Name: ");
+        name = Console.ReadLine();
+        Task welcome = Welcome(name);
+        Task<string> message = (Task<string>)await Task.WhenAny(welcome);
+        string welcome_message = await message;
+        Console.WriteLine(welcome_message);
         while (true)
         {
             email = "";
             sms = "";
-            name = "";
             product_name = "";
             Console.WriteLine("Shopping!!!");
             Console.WriteLine($"1. Pen (Rs.5)\t\tItems Available: {pen_availability}");
@@ -61,11 +67,9 @@
             }
             if (availability)
             {
-                while(email == "" || name == "" || sms == "")
+                while(email == "" || sms == "")
                 {
                     Console.WriteLine("\nPayment Page");
-                    Console.Write("Enter Name: ");
-                    name = Console.ReadLine();
                     Console.Write("Enter Email ID: ");
                     email = Console.ReadLine();
                     Console.Write("Enter Phone Number: ");
@@ -74,6 +78,10 @@
                 await (Payment());
             }
         }
+    }
+    static async Task<string> Welcome(string customer_name)
+    {
+        return $"Welcome {customer_name} to Namazon\n";
     }
     static async Task Product(int delay, string name, int product_id)
     {

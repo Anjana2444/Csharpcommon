@@ -23,13 +23,11 @@ public class Program
     }
     public static void EmployeeValueType(Employee emp)
     {
-        emp = new Employee();
         emp.EmpId = 201;
         emp.Name = "Chris";
     }
     public static void EmployeeReferenceTypeRef(ref Employee emp)
     {
-        emp = new Employee();
         emp.EmpId = 202;
         emp.Name = "Joseph";
     }
