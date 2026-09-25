@@ -1,0 +1,16 @@
+C:\Users\antony.jacob\Programming\Samples\CustomerCollections\bin\Debug\net10.0\CustomerCollections.exe
+C:\Users\antony.jacob\Programming\Samples\CustomerCollections\bin\Debug\net10.0\CustomerCollections.deps.json
+C:\Users\antony.jacob\Programming\Samples\CustomerCollections\bin\Debug\net10.0\CustomerCollections.runtimeconfig.json
+C:\Users\antony.jacob\Programming\Samples\CustomerCollections\bin\Debug\net10.0\CustomerCollections.dll
+C:\Users\antony.jacob\Programming\Samples\CustomerCollections\bin\Debug\net10.0\CustomerCollections.pdb
+C:\Users\antony.jacob\Programming\Samples\CustomerCollections\obj\Debug\net10.0\CustomerCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antony.jacob\Programming\Samples\CustomerCollections\obj\Debug\net10.0\CustomerCollections.AssemblyInfoInputs.cache
+C:\Users\antony.jacob\Programming\Samples\CustomerCollections\obj\Debug\net10.0\CustomerCollections.AssemblyInfo.cs
+C:\Users\antony.jacob\Programming\Samples\CustomerCollections\obj\Debug\net10.0\CustomerCollections.csproj.CoreCompileInputs.cache
+C:\Users\antony.jacob\Programming\Samples\CustomerCollections\obj\Debug\net10.0\CustomerCollections.sourcelink.json
+C:\Users\antony.jacob\Programming\Samples\CustomerCollections\obj\Debug\net10.0\CustomerCollections.dll
+C:\Users\antony.jacob\Programming\Samples\CustomerCollections\obj\Debug\net10.0\refint\CustomerCollections.dll
+C:\Users\antony.jacob\Programming\Samples\CustomerCollections\obj\Debug\net10.0\CustomerCollections.pdb
+C:\Users\antony.jacob\Programming\Samples\CustomerCollections\obj\Debug\net10.0\CustomerCollections.genruntimeconfig.cache
+C:\Users\antony.jacob\Programming\Samples\CustomerCollections\obj\Debug\net10.0\ref\CustomerCollections.dll
+C:\Users\antony.jacob\Programming\Samples\CustomerCollections\obj\Debug\net10.0\Customer.A33DDB99.Up2Date

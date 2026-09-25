@@ -1,0 +1,16 @@
+C:\Users\antony.jacob\Programming\Samples\BasicLINQ\bin\Debug\net10.0\BasicLINQ.exe
+C:\Users\antony.jacob\Programming\Samples\BasicLINQ\bin\Debug\net10.0\BasicLINQ.deps.json
+C:\Users\antony.jacob\Programming\Samples\BasicLINQ\bin\Debug\net10.0\BasicLINQ.runtimeconfig.json
+C:\Users\antony.jacob\Programming\Samples\BasicLINQ\bin\Debug\net10.0\BasicLINQ.dll
+C:\Users\antony.jacob\Programming\Samples\BasicLINQ\bin\Debug\net10.0\BasicLINQ.pdb
+C:\Users\antony.jacob\Programming\Samples\BasicLINQ\obj\Debug\net10.0\BasicLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antony.jacob\Programming\Samples\BasicLINQ\obj\Debug\net10.0\BasicLINQ.AssemblyInfoInputs.cache
+C:\Users\antony.jacob\Programming\Samples\BasicLINQ\obj\Debug\net10.0\BasicLINQ.AssemblyInfo.cs
+C:\Users\antony.jacob\Programming\Samples\BasicLINQ\obj\Debug\net10.0\BasicLINQ.csproj.CoreCompileInputs.cache
+C:\Users\antony.jacob\Programming\Samples\BasicLINQ\obj\Debug\net10.0\BasicLINQ.sourcelink.json
+C:\Users\antony.jacob\Programming\Samples\BasicLINQ\obj\Debug\net10.0\BasicLINQ.dll
+C:\Users\antony.jacob\Programming\Samples\BasicLINQ\obj\Debug\net10.0\refint\BasicLINQ.dll
+C:\Users\antony.jacob\Programming\Samples\BasicLINQ\obj\Debug\net10.0\BasicLINQ.pdb
+C:\Users\antony.jacob\Programming\Samples\BasicLINQ\obj\Debug\net10.0\BasicLINQ.genruntimeconfig.cache
+C:\Users\antony.jacob\Programming\Samples\BasicLINQ\obj\Debug\net10.0\ref\BasicLINQ.dll
+C:\Users\antony.jacob\Programming\Samples\BasicLINQ\obj\Debug\net10.0\BasicLINQ.csproj.Up2Date

@@ -11,7 +11,9 @@ StudentDetails s7 = new StudentDetails(7, "Allen Philip", GenderType.Male, Secti
 StudentDetails s8 = new StudentDetails(8, "Jacob Anotny", GenderType.Female, Section.B, Grade.A);
 StudentDetails s9 = new StudentDetails(9, "Anns Jacob", GenderType.Male, Section.A, Grade.C);
 StudentDetails s10 = new StudentDetails(10, "Allen George", GenderType.Female, Section.C, Grade.D);
+
 Dictionary<int, StudentDetails> StudentBaseDetails = new Dictionary<int, StudentDetails>();
+
 StudentBaseDetails.Add(s1.StudentID, s1);
 StudentBaseDetails.Add(s2.StudentID, s2);
 StudentBaseDetails.Add(s3.StudentID, s3);
